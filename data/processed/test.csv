@@ -1,0 +1,2715 @@
+bedrooms,bathrooms,toilets,parking_space,title,town,state,price
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,75000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Lekki,Lagos,200000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ajah,Lagos,60000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Katampe,Abuja,160000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,270000000.0
+3.0,5.0,5.0,4.0,Terraced Duplexes,Ajah,Lagos,40000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,120000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+2.0,2.0,2.0,4.0,Detached Bungalow,Abeokuta North,Ogun,4000000.0
+4.0,4.0,5.0,1.0,Semi Detached Duplex,Galadimawa,Abuja,50000000.0
+2.0,3.0,3.0,3.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,12000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,110000000.0
+4.0,2.0,2.0,4.0,Semi Detached Bungalow,Yaba,Lagos,40000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,85000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,70000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ibadan,Oyo,10000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Orozo,Abuja,52500000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,61000000.0
+5.0,3.0,3.0,4.0,Detached Duplex,Owerri North,Imo,50000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ikeja,Lagos,60000000.0
+3.0,3.0,4.0,3.0,Terraced Bungalow,Mowe Ofada,Ogun,11500000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Sango Ota,Ogun,10000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,80000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Katampe,Abuja,150000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+2.0,5.0,9.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,30000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ajah,Lagos,70000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,325000000.0
+3.0,2.0,2.0,2.0,Block of Flats,Ikeja,Lagos,300000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Magodo,Lagos,85000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,240000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,600000000.0
+5.0,4.0,5.0,3.0,Detached Duplex,Ajah,Lagos,68000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,1350000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,380000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,250000000.0
+2.0,5.0,5.0,4.0,Detached Bungalow,Idu Industrial,Abuja,10000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Guzape District,Abuja,180000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Enugu,Enugu,28500000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Dakwo,Abuja,80000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Victoria Island (VI),Lagos,830000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,180000000.0
+2.0,2.0,2.0,4.0,Detached Bungalow,Alimosho,Lagos,10000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Lokogoma District,Abuja,40000000.0
+5.0,5.0,5.0,1.0,Terraced Duplexes,Chikun,Kaduna,60000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,74000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ibeju Lekki,Lagos,9000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Egbeda,Oyo,3000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ojodu,Lagos,85000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,150000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+5.0,5.0,7.0,6.0,Detached Duplex,Ikoyi,Lagos,1150000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Shomolu,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,350000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+4.0,4.0,5.0,1.0,Terraced Duplexes,Ogudu,Lagos,75000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lugbe District,Abuja,32000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,90000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,165000000.0
+1.0,1.0,1.0,4.0,Block of Flats,Ibadan,Oyo,35000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Lekki,Lagos,65000000.0
+4.0,4.0,5.0,5.0,Terraced Duplexes,Ajah,Lagos,32000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,110000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+3.0,4.0,5.0,4.0,Block of Flats,Wuye,Abuja,250000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,200000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,125000000.0
+2.0,3.0,3.0,3.0,Detached Duplex,Lekki,Lagos,26000000.0
+9.0,9.0,1.0,8.0,Detached Duplex,Lekki,Lagos,250000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ajah,Lagos,120000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Isolo,Lagos,50000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Durumi,Abuja,130000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,85000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,230000000.0
+3.0,3.0,4.0,1.0,Terraced Bungalow,Ajah,Lagos,40000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,198000000.0
+1.0,5.0,2.0,1.0,Detached Bungalow,Mowe Ofada,Ogun,6500000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Ikeja,Lagos,700000000.0
+2.0,2.0,3.0,3.0,Terraced Duplexes,Lekki,Lagos,23000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,115000000.0
+4.0,4.0,5.0,6.0,Detached Bungalow,Oluyole,Oyo,17000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,115000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuse 2,Abuja,200000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,85000000.0
+3.0,4.0,4.0,5.0,Terraced Duplexes,Lekki,Lagos,38000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,125000000.0
+7.0,8.0,8.0,5.0,Detached Duplex,Lekki,Lagos,290000000.0
+5.0,7.0,6.0,4.0,Detached Duplex,Lekki,Lagos,170000000.0
+2.0,2.0,3.0,6.0,Block of Flats,Lekki,Lagos,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,140000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,5.0,5.0,5.0,Detached Bungalow,Lugbe District,Abuja,35000000.0
+4.0,4.0,5.0,4.0,Semi Detached Bungalow,Kurudu,Abuja,18000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,250000000.0
+3.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,45000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Ajah,Lagos,40000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Victoria Island (VI),Lagos,165000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,150000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ikoyi,Lagos,1700000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,335000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,59000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,140000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,55000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,80000000.0
+4.0,5.0,5.0,1.0,Terraced Duplexes,Guzape District,Abuja,120000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,125000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,KM 46,Ogun,24000000.0
+8.0,1.0,1.0,7.0,Detached Duplex,Maitama District,Abuja,850000000.0
+3.0,5.0,3.0,1.0,Detached Bungalow,Port Harcourt,Rivers,35000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Katampe,Abuja,280000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Agege,Lagos,55000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,85000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ajah,Lagos,40000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,190000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,26000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Ibadan,Oyo,55000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ifako-Ijaiye,Lagos,15000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Ibadan,Oyo,32000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,100000000.0
+7.0,8.0,8.0,4.0,Detached Duplex,Gwarinpa,Abuja,370000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Kaduna South,Kaduna,10000000.0
+3.0,4.0,4.0,2.0,Block of Flats,Lekki,Lagos,38000000.0
+3.0,4.0,4.0,5.0,Block of Flats,Gaduwa,Abuja,55000000.0
+5.0,4.0,4.0,3.0,Detached Duplex,Lekki,Lagos,80000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,120000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,150000000.0
+5.0,7.0,8.0,4.0,Detached Duplex,Lekki,Lagos,250000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,200000000.0
+3.0,3.0,4.0,7.0,Detached Bungalow,Lokogoma District,Abuja,28000000.0
+5.0,5.0,5.0,8.0,Detached Duplex,Lekki,Lagos,270000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,33000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Apo,Abuja,65000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,800000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Kubwa,Abuja,36500000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,160000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,315000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Ajah,Lagos,130000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,140000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,78000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,280000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,25000000.0
+5.0,8.0,8.0,8.0,Detached Duplex,Maitama District,Abuja,600000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,7000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikotun,Lagos,65000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Port Harcourt,Rivers,120000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,75000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,120000000.0
+5.0,6.0,6.0,7.0,Detached Duplex,Lekki,Lagos,85000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ajah,Lagos,60000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lugbe District,Abuja,18000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,48000000.0
+3.0,3.0,4.0,5.0,Semi Detached Bungalow,Obafemi Owode,Ogun,15000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,195000000.0
+1.0,2.0,3.0,4.0,Block of Flats,Lekki,Lagos,24000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Dakwo,Abuja,30000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Ajah,Lagos,65000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,28000000.0
+7.0,7.0,8.0,4.0,Detached Duplex,Alimosho,Lagos,100000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lekki,Lagos,35000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lokogoma District,Abuja,45000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,95000000.0
+4.0,4.0,6.0,4.0,Detached Duplex,Lekki,Lagos,50000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Surulere,Lagos,37000000.0
+4.0,4.0,4.0,1.0,Detached Duplex,Isheri North,Lagos,65000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ajah,Lagos,30000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Wuye,Abuja,170000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,210000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Port Harcourt,Rivers,140000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Alimosho,Lagos,45000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,80000000.0
+3.0,3.0,2.0,3.0,Semi Detached Bungalow,Ikorodu,Lagos,16000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,145000000.0
+4.0,5.0,5.0,3.0,Detached Duplex,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,150000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,135000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,180000000.0
+3.0,4.0,4.0,8.0,Block of Flats,Ikoyi,Lagos,230000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,135000000.0
+2.0,2.0,3.0,4.0,Terraced Duplexes,Ibeju Lekki,Lagos,75000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,200000000.0
+7.0,5.0,4.0,3.0,Detached Duplex,Kaduna South,Kaduna,35000000.0
+7.0,7.0,8.0,5.0,Detached Duplex,Ikoyi,Lagos,900000000.0
+3.0,4.0,5.0,3.0,Detached Bungalow,Lokogoma District,Abuja,25000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Ikotun,Lagos,62000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Mowe Town,Ogun,11000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,320000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,230000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Isolo,Lagos,50000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Galadimawa,Abuja,180000000.0
+3.0,4.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,70000000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,40000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,430000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,300000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,200000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Katampe,Abuja,120000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,120000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Surulere,Lagos,65000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,58000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Owerri West,Imo,220000000.0
+3.0,3.0,3.0,6.0,Detached Bungalow,Apo,Abuja,45000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Ajah,Lagos,25000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,75000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Mabushi,Abuja,80000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Gwarinpa,Abuja,55000000.0
+1.0,5.0,5.0,4.0,Semi Detached Bungalow,Kubwa,Abuja,45000000.0
+3.0,2.0,2.0,4.0,Detached Bungalow,Agege,Lagos,13000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Owerri Municipal,Imo,150000000.0
+6.0,7.0,8.0,5.0,Block of Flats,Ifo,Ogun,25000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,180000000.0
+3.0,5.0,6.0,1.0,Detached Bungalow,Kurudu,Abuja,25000000.0
+4.0,3.0,3.0,3.0,Detached Bungalow,Surulere,Lagos,65000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+2.0,2.0,2.0,8.0,Detached Bungalow,Ifako-Ijaiye,Lagos,12000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,68000000.0
+5.0,6.0,7.0,4.0,Terraced Duplexes,Ikoyi,Lagos,350000000.0
+9.0,8.0,9.0,1.0,Detached Duplex,Ikoyi,Lagos,1800000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Uyo,Akwa Ibom,55000000.0
+4.0,8.0,5.0,6.0,Detached Duplex,Lokogoma District,Abuja,83000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,55000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Magodo,Lagos,220000000.0
+4.0,5.0,6.0,3.0,Detached Duplex,Ajah,Lagos,80000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Lekki,Lagos,28000000.0
+4.0,2.0,2.0,1.0,Detached Bungalow,Port Harcourt,Rivers,30000000.0
+4.0,4.0,5.0,1.0,Terraced Duplexes,Asokoro District,Abuja,600000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Ibafo,Ogun,70000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Surulere,Lagos,75000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Oredo,Edo,40000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Lekki,Lagos,65000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,280000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,110000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ojodu,Lagos,30000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Victoria Island (VI),Lagos,130000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,55000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Ibadan,Oyo,75000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Karmo,Abuja,68000000.0
+2.0,5.0,2.0,2.0,Block of Flats,Ajah,Lagos,16000000.0
+5.0,4.0,5.0,6.0,Detached Bungalow,Ibadan,Oyo,8000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Gwarinpa,Abuja,26000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,240000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,220000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,100000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Asaba,Delta,65000000.0
+4.0,5.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+2.0,2.0,2.0,3.0,Block of Flats,Lekki,Lagos,21000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Apo,Abuja,98000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ajah,Lagos,80000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Ibadan,Oyo,65000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,58000000.0
+5.0,6.0,7.0,1.0,Detached Duplex,Owerri Municipal,Imo,150000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Apo,Abuja,70000000.0
+5.0,6.0,5.0,7.0,Detached Duplex,Lekki,Lagos,190000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Galadimawa,Abuja,135000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,61000000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,200000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,65000000.0
+1.0,2.0,2.0,8.0,Detached Bungalow,Abeokuta South,Ogun,9000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Magodo,Lagos,300000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,400000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,250000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Lekki,Lagos,370000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,190000000.0
+6.0,6.0,7.0,1.0,Detached Bungalow,Port Harcourt,Rivers,50000000.0
+3.0,4.0,5.0,7.0,Detached Bungalow,Ajah,Lagos,35000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,150000000.0
+2.0,2.0,2.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,11000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Idu Industrial,Abuja,57000000.0
+3.0,3.0,3.0,5.0,Detached Bungalow,Ajah,Lagos,21000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,1750000000.0
+2.0,3.0,3.0,2.0,Block of Flats,Ajah,Lagos,36000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,280000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Ajah,Lagos,50000000.0
+2.0,2.0,3.0,4.0,Detached Duplex,Lekki,Lagos,15000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ikorodu,Lagos,48000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Magodo,Lagos,70000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,22000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,220000000.0
+3.0,3.0,5.0,4.0,Terraced Bungalow,KM 46,Ogun,17000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,12000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikorodu,Lagos,35000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,200000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,320000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,120000000.0
+5.0,7.0,7.0,8.0,Detached Duplex,Lekki,Lagos,400000000.0
+5.0,5.0,6.0,9.0,Detached Duplex,Lekki,Lagos,260000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Ikoyi,Lagos,250000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,30000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Isolo,Lagos,160000000.0
+3.0,3.0,4.0,6.0,Detached Bungalow,Apo,Abuja,45000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Ado-Ekiti,Ekiti,70000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,60000000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,97000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,120000000.0
+3.0,3.0,3.0,3.0,Block of Flats,Ajah,Lagos,29000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,40000000.0
+3.0,3.0,4.0,2.0,Semi Detached Bungalow,Mowe Ofada,Ogun,10500000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,240000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,750000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,59000000.0
+4.0,3.0,3.0,4.0,Detached Bungalow,Ibadan,Oyo,25000000.0
+7.0,8.0,8.0,6.0,Detached Duplex,Guzape District,Abuja,550000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ajah,Lagos,60000000.0
+3.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,270000000.0
+4.0,3.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,33000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,245000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Asaba,Delta,70000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Victoria Island (VI),Lagos,580000000.0
+4.0,3.0,3.0,6.0,Detached Bungalow,Surulere,Lagos,75000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ibadan,Oyo,50000000.0
+5.0,4.0,5.0,5.0,Detached Duplex,Owerri Municipal,Imo,75000000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Karmo,Abuja,45000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ibadan,Oyo,55000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,60000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Utako,Abuja,45000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Mowe Ofada,Ogun,15000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Guzape District,Abuja,300000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Isheri,Lagos,140000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Port Harcourt,Rivers,50000000.0
+6.0,5.0,6.0,9.0,Detached Bungalow,Ikorodu,Lagos,17000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,350000000.0
+5.0,4.0,4.0,4.0,Detached Duplex,Ibadan,Oyo,60000000.0
+3.0,4.0,4.0,2.0,Block of Flats,Yaba,Lagos,43000000.0
+6.0,8.0,8.0,7.0,Detached Duplex,Ibadan,Oyo,96000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,120000000.0
+2.0,3.0,3.0,2.0,Terraced Bungalow,Simawa,Ogun,18500000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,100000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,64000000.0
+5.0,3.0,5.0,7.0,Detached Duplex,Gwarinpa,Abuja,200000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,400000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,72000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,140000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,62000000.0
+8.0,5.0,5.0,4.0,Block of Flats,Ajah,Lagos,28000000.0
+2.0,2.0,3.0,4.0,Terraced Bungalow,Mowe Town,Ogun,10500000.0
+3.0,3.0,3.0,4.0,Block of Flats,Egor,Edo,27000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Jabi,Abuja,600000000.0
+3.0,5.0,5.0,5.0,Detached Duplex,Gbagada,Lagos,55000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,23000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Magodo,Lagos,230000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Mowe Town,Ogun,16000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Ajah,Lagos,30000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,220000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Nyanya,Abuja,14500000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,90000000.0
+3.0,4.0,5.0,3.0,Block of Flats,Ikoyi,Lagos,260000000.0
+3.0,4.0,4.0,2.0,Semi Detached Duplex,Ibeju Lekki,Lagos,33000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ajah,Lagos,75000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,50000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,50000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,100000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,45000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,140000000.0
+3.0,3.0,3.0,1.0,Detached Bungalow,Mowe Town,Ogun,9500000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ajah,Lagos,55000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Life Camp,Abuja,18500000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Maitama District,Abuja,300000000.0
+3.0,4.0,4.0,4.0,Semi Detached Bungalow,Mbora (Nbora),Abuja,40000000.0
+2.0,2.0,3.0,3.0,Semi Detached Duplex,Lokogoma District,Abuja,28000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,60000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Utako,Abuja,170000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,105000000.0
+7.0,9.0,9.0,5.0,Detached Duplex,Gwarinpa,Abuja,82000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,130000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,96000000.0
+5.0,7.0,7.0,1.0,Detached Duplex,Gwarinpa,Abuja,400000000.0
+5.0,5.0,6.0,5.0,Terraced Duplexes,Ikoyi,Lagos,650000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,80000000.0
+2.0,2.0,3.0,3.0,Terraced Duplexes,Lekki,Lagos,78000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,98000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Ibadan,Oyo,14000000.0
+4.0,5.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,110000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Lekki,Lagos,60000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Yaba,Lagos,100000000.0
+8.0,9.0,1.0,2.0,Block of Flats,Utako,Abuja,380000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+5.0,5.0,5.0,1.0,Block of Flats,Dutse,Abuja,7000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,115000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ifako-Ijaiye,Lagos,14000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Surulere,Lagos,26500000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Lugbe District,Abuja,40000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,130000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Ajah,Lagos,70000000.0
+3.0,4.0,4.0,2.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+6.0,7.0,8.0,6.0,Detached Duplex,Lekki,Lagos,320000000.0
+2.0,2.0,3.0,4.0,Terraced Duplexes,Ajah,Lagos,27000000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,185000000.0
+8.0,7.0,7.0,4.0,Block of Flats,Agege,Lagos,33000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ibadan,Oyo,40000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,72000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ajah,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,127000000.0
+4.0,4.0,4.0,1.0,Detached Duplex,Ajah,Lagos,65000000.0
+4.0,6.0,6.0,3.0,Semi Detached Duplex,Lekki,Lagos,90000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,58000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Sango Ota,Ogun,30000000.0
+2.0,5.0,3.0,4.0,Block of Flats,Ikoyi,Lagos,120000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Mowe Town,Ogun,16000000.0
+2.0,2.0,2.0,4.0,Semi Detached Duplex,Ajah,Lagos,33500000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Agege,Lagos,50000000.0
+4.0,6.0,6.0,8.0,Detached Duplex,Ibadan,Oyo,30000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Enugu,Enugu,60000000.0
+5.0,5.0,6.0,2.0,Block of Flats,Ikoyi,Lagos,560000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ajah,Lagos,130000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,335000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gwarinpa,Abuja,95000000.0
+1.0,5.0,5.0,4.0,Detached Bungalow,Ibafo,Ogun,8500000.0
+1.0,1.0,1.0,7.0,Block of Flats,Gwarinpa,Abuja,100000000.0
+3.0,3.0,3.0,1.0,Block of Flats,Surulere,Lagos,80000000.0
+5.0,6.0,6.0,2.0,Detached Bungalow,Eleme,Rivers,45000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Ipaja,Lagos,10000000.0
+3.0,2.0,5.0,4.0,Block of Flats,Yaba,Lagos,40000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Lekki,Lagos,110000000.0
+5.0,6.0,7.0,2.0,Terraced Duplexes,Jabi,Abuja,140000000.0
+4.0,5.0,3.0,4.0,Detached Duplex,Lekki,Lagos,95000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Owerri Municipal,Imo,42000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Ipaja,Lagos,40000000.0
+5.0,5.0,6.0,6.0,Semi Detached Duplex,Ikoyi,Lagos,300000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,80000000.0
+4.0,4.0,4.0,2.0,Detached Bungalow,Owerri Municipal,Imo,25000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lugbe District,Abuja,15000000.0
+4.0,4.0,6.0,1.0,Detached Bungalow,Karu,Abuja,24000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikeja,Lagos,80000000.0
+4.0,6.0,6.0,6.0,Terraced Duplexes,Lugbe District,Abuja,70000000.0
+1.0,1.0,1.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,750000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ibadan,Oyo,100000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Oredo,Edo,55000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikeja,Lagos,265000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,15000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Ajah,Lagos,165000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Lekki,Lagos,90000000.0
+9.0,6.0,6.0,1.0,Detached Bungalow,Agege,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Karsana,Abuja,45000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Life Camp,Abuja,19900000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,34500000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,320000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Mowe Ofada,Ogun,11500000.0
+5.0,5.0,6.0,6.0,Terraced Duplexes,Ajah,Lagos,42000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Mabushi,Abuja,220000000.0
+5.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,70000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,175000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,85000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,390000000.0
+4.0,4.0,5.0,3.0,Detached Bungalow,Kafe,Abuja,22500000.0
+5.0,5.0,7.0,5.0,Terraced Duplexes,Lekki,Lagos,58000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Wuse,Abuja,150000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Gwarinpa,Abuja,60000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Katampe,Abuja,200000000.0
+4.0,5.0,6.0,5.0,Detached Duplex,Ajah,Lagos,70000000.0
+5.0,5.0,6.0,3.0,Semi Detached Duplex,Ajah,Lagos,60000000.0
+6.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,15000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ikeja,Lagos,70000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,280000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lugbe District,Abuja,82000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Gwarinpa,Abuja,45000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,70000000.0
+6.0,7.0,7.0,6.0,Detached Duplex,Lekki,Lagos,300000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ikoyi,Lagos,180000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,80000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,52000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,78000000.0
+4.0,4.0,5.0,9.0,Terraced Duplexes,Ikoyi,Lagos,140000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,930000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,19500000.0
+2.0,3.0,3.0,1.0,Detached Bungalow,Ikorodu,Lagos,8000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Ajah,Lagos,40000000.0
+2.0,5.0,3.0,4.0,Block of Flats,Lugbe District,Abuja,40000000.0
+5.0,4.0,6.0,4.0,Detached Duplex,Lekki,Lagos,65000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Isheri North,Lagos,137500000.0
+3.0,3.0,3.0,3.0,Detached Bungalow,Lekki,Lagos,33000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,1600000000.0
+5.0,5.0,4.0,5.0,Detached Duplex,Lekki,Lagos,110000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Enugu,Enugu,35000000.0
+3.0,4.0,4.0,5.0,Detached Bungalow,Gwarinpa,Abuja,55000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,230000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,85000000.0
+3.0,4.0,4.0,3.0,Detached Bungalow,Lekki,Lagos,37000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Jabi,Abuja,650000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Ajah,Lagos,47000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,110000000.0
+2.0,2.0,2.0,2.0,Terraced Duplexes,Ajah,Lagos,35000000.0
+3.0,3.0,4.0,3.0,Detached Duplex,Ibeju Lekki,Lagos,35000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gaduwa,Abuja,80000000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ajah,Lagos,25000000.0
+3.0,5.0,3.0,4.0,Semi Detached Bungalow,Arepo,Ogun,30000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Guzape District,Abuja,130000000.0
+4.0,6.0,5.0,3.0,Detached Duplex,Ajah,Lagos,35000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ikoyi,Lagos,650000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,170000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,90000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Ibadan,Oyo,45000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,139999999.0
+6.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,195000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ibadan,Oyo,4500000.0
+4.0,4.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,54000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Alimosho,Lagos,40000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Magodo,Lagos,50000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Maitama District,Abuja,1600000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,400000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Kaura,Abuja,60000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ikeja,Lagos,70000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Guzape District,Abuja,80000000.0
+3.0,3.0,3.0,3.0,Semi Detached Bungalow,Ajah,Lagos,18000000.0
+5.0,7.0,6.0,4.0,Detached Duplex,Lekki,Lagos,130000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuse,Abuja,150000000.0
+3.0,3.0,4.0,7.0,Block of Flats,Ikorodu,Lagos,32000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maryland,Lagos,110000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ojodu,Lagos,80000000.0
+4.0,3.0,3.0,4.0,Detached Bungalow,Ayobo,Lagos,15000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lugbe District,Abuja,70000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,100000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,80000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,77000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,48000000.0
+2.0,2.0,3.0,4.0,Terraced Duplexes,Lekki,Lagos,35000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Victoria Island (VI),Lagos,200000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Owerri Municipal,Imo,25000000.0
+2.0,3.0,3.0,5.0,Detached Bungalow,Lokogoma District,Abuja,14000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Lekki,Lagos,400000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Lekki,Lagos,46000000.0
+3.0,3.0,6.0,3.0,Detached Bungalow,Ijede,Lagos,12000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,150000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Ajah,Lagos,135000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Ketu,Lagos,45000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Gwarinpa,Abuja,28265000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Lekki,Lagos,280000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,150000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Oredo,Edo,25000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Ajah,Lagos,35000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Port Harcourt,Rivers,55000000.0
+6.0,6.0,7.0,4.0,Terraced Duplexes,Maitama District,Abuja,330000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,105000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,73000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ajah,Lagos,15000000.0
+3.0,5.0,4.0,4.0,Detached Bungalow,Gudu,Abuja,45000000.0
+3.0,5.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,35000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Isheri North,Lagos,85000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,350000000.0
+1.0,1.0,1.0,1.0,Block of Flats,Ado-Odo/Ota,Ogun,40000000.0
+4.0,4.0,5.0,5.0,Detached Bungalow,Asaba,Delta,45000000.0
+1.0,2.0,2.0,1.0,Block of Flats,Lekki,Lagos,50000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,150000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,350000000.0
+2.0,2.0,3.0,4.0,Block of Flats,Ayobo,Lagos,16000000.0
+1.0,9.0,8.0,1.0,Detached Duplex,Ibadan,Oyo,120000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,18000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,190000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Wuye,Abuja,165000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Idu Industrial,Abuja,75000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,400000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Owerri Municipal,Imo,35000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,75000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,110000000.0
+1.0,1.0,1.0,4.0,Block of Flats,Owerri Municipal,Imo,25000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lugbe District,Abuja,25000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Ilupeju,Lagos,48000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,4.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Magodo,Lagos,60000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,50000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ketu,Lagos,50000000.0
+2.0,2.0,2.0,4.0,Terraced Bungalow,Ajah,Lagos,18000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Isheri North,Lagos,145000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Jahi,Abuja,200000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Ikoyi,Lagos,580000000.0
+1.0,1.0,1.0,4.0,Block of Flats,Yaba,Lagos,100000000.0
+2.0,3.0,2.0,4.0,Block of Flats,Gwarinpa,Abuja,270000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Lekki,Lagos,80000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Durumi,Abuja,60000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,270000000.0
+5.0,5.0,6.0,7.0,Semi Detached Duplex,Ikoyi,Lagos,400000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Ibeju Lekki,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,100000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Karmo,Abuja,38000000.0
+4.0,6.0,6.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,145000000.0
+4.0,4.0,5.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,35000000.0
+4.0,7.0,7.0,4.0,Detached Duplex,Lugbe District,Abuja,42000000.0
+4.0,4.0,5.0,1.0,Terraced Duplexes,Jahi,Abuja,60000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Shomolu,Lagos,30000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gwarinpa,Abuja,120000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,120000000.0
+8.0,8.0,1.0,1.0,Detached Duplex,Maitama District,Abuja,900000000.0
+3.0,2.0,2.0,4.0,Detached Bungalow,Ibadan,Oyo,7000000.0
+5.0,5.0,6.0,4.0,Semi Detached Bungalow,Ikoyi,Lagos,270000000.0
+5.0,6.0,6.0,1.0,Detached Duplex,Ikeja,Lagos,160000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Jabi,Abuja,100000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,140000000.0
+7.0,9.0,9.0,1.0,Detached Duplex,Maitama District,Abuja,1100000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ikotun,Lagos,8500000.0
+3.0,3.0,3.0,6.0,Detached Bungalow,Ibeju Lekki,Lagos,30000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Magodo,Lagos,175000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Guzape District,Abuja,80000000.0
+3.0,5.0,5.0,4.0,Detached Duplex,Ejigbo,Lagos,22000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,220000000.0
+1.0,5.0,5.0,4.0,Block of Flats,Kubwa,Abuja,17000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,60000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ajah,Lagos,19000000.0
+4.0,3.0,3.0,4.0,Detached Bungalow,Surulere,Lagos,120000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Port Harcourt,Rivers,65000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Maitama District,Abuja,125000000.0
+5.0,5.0,7.0,6.0,Detached Duplex,Owerri Municipal,Imo,80000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lokogoma District,Abuja,55000000.0
+8.0,8.0,8.0,1.0,Detached Duplex,Ajah,Lagos,220000000.0
+4.0,5.0,5.0,1.0,Detached Bungalow,Sango Ota,Ogun,15000000.0
+2.0,2.0,2.0,1.0,Detached Bungalow,Surulere,Lagos,27000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Mbora (Nbora),Abuja,120000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,440000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,120000000.0
+3.0,3.0,4.0,5.0,Semi Detached Bungalow,Owerri Municipal,Imo,30000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Owerri Municipal,Imo,25000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,140000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,350000000.0
+5.0,4.0,4.0,4.0,Detached Bungalow,Ifo,Ogun,16000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,82000000.0
+1.0,1.0,1.0,1.0,Terraced Duplexes,Maitama District,Abuja,650000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Surulere,Lagos,90000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,62000000.0
+4.0,4.0,4.0,2.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+2.0,3.0,3.0,3.0,Block of Flats,Lekki,Lagos,35000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,90000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,40000000.0
+4.0,5.0,6.0,4.0,Block of Flats,Victoria Island (VI),Lagos,350000000.0
+6.0,6.0,7.0,5.0,Detached Bungalow,Port Harcourt,Rivers,33000000.0
+3.0,3.0,3.0,2.0,Block of Flats,Lekki,Lagos,25500000.0
+5.0,7.0,7.0,7.0,Detached Duplex,Lekki,Lagos,400000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,150000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,50000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ibeju Lekki,Lagos,19800000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,49000000.0
+5.0,6.0,7.0,5.0,Semi Detached Duplex,Isheri North,Lagos,80000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ibafo,Ogun,37000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lugbe District,Abuja,41000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,150000000.0
+1.0,5.0,5.0,4.0,Block of Flats,Mowe Ofada,Ogun,6500000.0
+4.0,4.0,4.0,3.0,Detached Duplex,Lekki,Lagos,130000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ojodu,Lagos,24000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Lekki,Lagos,34000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Magodo,Lagos,140000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ajah,Lagos,60000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Surulere,Lagos,50000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Victoria Island (VI),Lagos,400000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,197000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,300000000.0
+3.0,2.0,2.0,4.0,Semi Detached Bungalow,Ikotun,Lagos,26000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,500000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Lekki,Lagos,450000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,53000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,165000000.0
+4.0,3.0,4.0,5.0,Detached Duplex,Lekki,Lagos,130000000.0
+6.0,5.0,7.0,4.0,Semi Detached Duplex,Maitama District,Abuja,550000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Apo,Abuja,100000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,130000000.0
+5.0,1.0,1.0,1.0,Detached Duplex,Ketu,Lagos,95000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Dakibiyu,Abuja,27500000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Guzape District,Abuja,100000000.0
+6.0,1.0,1.0,5.0,Detached Duplex,Isheri North,Lagos,140000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,75000000.0
+4.0,4.0,4.0,4.0,Semi Detached Bungalow,Lekki,Lagos,75000000.0
+4.0,4.0,4.0,3.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,34000000.0
+3.0,5.0,3.0,4.0,Detached Bungalow,Lagos Island,Lagos,65000000.0
+4.0,6.0,5.0,6.0,Detached Duplex,Ajah,Lagos,80000000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Ikeja,Lagos,130000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Port Harcourt,Rivers,25000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,210000000.0
+3.0,3.0,4.0,3.0,Terraced Bungalow,Lekki,Lagos,22000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Durumi,Abuja,65000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,450000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Isheri,Lagos,150000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Lugbe District,Abuja,50000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,115000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Ikoyi,Lagos,500000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Wuye,Abuja,65000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Magodo,Lagos,45000000.0
+5.0,5.0,7.0,8.0,Detached Duplex,Lekki,Lagos,270000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Victoria Island (VI),Lagos,140000000.0
+2.0,2.0,2.0,3.0,Detached Bungalow,Alimosho,Lagos,15000000.0
+4.0,5.0,5.0,9.0,Semi Detached Duplex,Lugbe District,Abuja,65000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,300000000.0
+2.0,2.0,3.0,3.0,Block of Flats,Lekki,Lagos,45000000.0
+1.0,5.0,2.0,1.0,Terraced Bungalow,Mowe Ofada,Ogun,6500000.0
+2.0,2.0,3.0,2.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,76500000.0
+4.0,6.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,40000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,310000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,11000000.0
+3.0,3.0,3.0,5.0,Detached Bungalow,Ibeju Lekki,Lagos,18000000.0
+1.0,5.0,5.0,4.0,Detached Bungalow,Agege,Lagos,20000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,60000000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,42000000.0
+3.0,6.0,6.0,4.0,Block of Flats,Ibadan,Oyo,80000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,450000000.0
+3.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,24000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,185000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Katampe,Abuja,170000000.0
+5.0,5.0,5.0,8.0,Detached Duplex,Oredo,Edo,30000000.0
+2.0,2.0,2.0,4.0,Terraced Duplexes,Lekki,Lagos,27500000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Surulere,Lagos,37000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Magodo,Lagos,75000000.0
+3.0,3.0,3.0,3.0,Semi Detached Bungalow,Ajah,Lagos,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Isheri North,Lagos,65000000.0
+4.0,5.0,5.0,6.0,Terraced Duplexes,Maitama District,Abuja,150000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Enugu,Enugu,75000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ifako-Ijaiye,Lagos,27500000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,68000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ajah,Lagos,60000000.0
+3.0,3.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,33000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Apo,Abuja,48000000.0
+3.0,2.0,4.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,32000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Ikeja,Lagos,78000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ibadan,Oyo,75000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ibeju Lekki,Lagos,28800000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Kado,Abuja,250000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,120000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Port Harcourt,Rivers,30000000.0
+4.0,3.0,3.0,4.0,Block of Flats,Owerri Municipal,Imo,30000000.0
+7.0,6.0,7.0,4.0,Detached Duplex,Isheri North,Lagos,155000000.0
+5.0,5.0,6.0,9.0,Detached Duplex,Lekki,Lagos,95000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Alimosho,Lagos,50000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,19000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Asokoro District,Abuja,750000000.0
+4.0,4.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,55000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lekki,Lagos,33000000.0
+3.0,3.0,3.0,8.0,Block of Flats,Owerri Municipal,Imo,75000000.0
+4.0,5.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,48000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Lekki,Lagos,85000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,68000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Gaduwa,Abuja,180000000.0
+3.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,85000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,28000000.0
+3.0,3.0,4.0,8.0,Detached Bungalow,Lokogoma District,Abuja,60000000.0
+3.0,9.0,9.0,6.0,Block of Flats,Agege,Lagos,35000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,310000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Ikeja,Lagos,120000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Ogudu,Lagos,170000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,95000000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Wuye,Abuja,40000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Guzape District,Abuja,150000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Ibadan,Oyo,15000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,80000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Oredo,Edo,100000000.0
+7.0,6.0,6.0,8.0,Semi Detached Duplex,Amuwo Odofin,Lagos,95000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,78000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Lekki,Lagos,270000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+1.0,5.0,2.0,2.0,Block of Flats,Dakibiyu,Abuja,18000000.0
+3.0,4.0,5.0,4.0,Detached Duplex,Galadimawa,Abuja,29000000.0
+5.0,5.0,6.0,3.0,Semi Detached Duplex,Ikoyi,Lagos,330000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Apo,Abuja,140000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ibeju Lekki,Lagos,130000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,200000000.0
+4.0,5.0,6.0,3.0,Terraced Duplexes,Utako,Abuja,75000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,69000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,58000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Guzape District,Abuja,85000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,370000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikeja,Lagos,150000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,46000000.0
+1.0,5.0,2.0,2.0,Block of Flats,Mowe Ofada,Ogun,6500000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,148000000.0
+7.0,7.0,8.0,2.0,Detached Duplex,Ikoyi,Lagos,1300000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,45000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,500000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Lekki,Lagos,38000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ajah,Lagos,26000000.0
+5.0,5.0,5.0,3.0,Detached Duplex,Lekki,Lagos,85000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Lekki,Lagos,35000000.0
+6.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,45000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,70000000.0
+5.0,4.0,5.0,6.0,Detached Duplex,Gwarinpa,Abuja,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Magodo,Lagos,135000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,102000000.0
+5.0,6.0,7.0,3.0,Detached Duplex,Ajah,Lagos,85000000.0
+3.0,3.0,3.0,2.0,Terraced Duplexes,Arepo,Ogun,65000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,26000000.0
+4.0,4.0,4.0,3.0,Detached Duplex,Ajah,Lagos,65000000.0
+3.0,4.0,4.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,37000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,220000000.0
+5.0,5.0,4.0,5.0,Detached Duplex,Lekki,Lagos,165000000.0
+1.0,5.0,5.0,4.0,Block of Flats,Isolo,Lagos,150000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,48000000.0
+1.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,27500000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Lokogoma District,Abuja,30000000.0
+3.0,3.0,3.0,3.0,Semi Detached Bungalow,Ajah,Lagos,19000000.0
+4.0,4.0,5.0,6.0,Semi Detached Duplex,Wuye,Abuja,67000000.0
+1.0,5.0,2.0,4.0,Block of Flats,Port Harcourt,Rivers,28000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Oshodi,Lagos,120000000.0
+5.0,5.0,5.0,8.0,Detached Duplex,Ifo,Ogun,35000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,70000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Galadimawa,Abuja,35000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,77000000.0
+5.0,5.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,120000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,600000000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Jahi,Abuja,80000000.0
+3.0,3.0,3.0,3.0,Detached Bungalow,Ikorodu,Lagos,8500000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Guzape District,Abuja,75000000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,110000000.0
+5.0,6.0,6.0,3.0,Terraced Duplexes,Gwarinpa,Abuja,35000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+3.0,3.0,4.0,8.0,Semi Detached Bungalow,Uyo,Akwa Ibom,17000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,58000000.0
+4.0,4.0,6.0,5.0,Detached Duplex,Lekki,Lagos,75000000.0
+9.0,9.0,9.0,5.0,Detached Duplex,Port Harcourt,Rivers,200000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Maryland,Lagos,120000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ajah,Lagos,28000000.0
+5.0,5.0,5.0,4.0,Block of Flats,Ethiope West,Delta,25000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Port Harcourt,Rivers,180000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,115000000.0
+3.0,1.0,1.0,8.0,Block of Flats,Wuye,Abuja,200000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Gwarinpa,Abuja,110000000.0
+3.0,3.0,4.0,3.0,Detached Duplex,Ajah,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Dape,Abuja,70000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,75000000.0
+8.0,8.0,9.0,8.0,Detached Duplex,Ibeju Lekki,Lagos,245000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,205000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Gaduwa,Abuja,85000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,KM 46,Ogun,18000000.0
+2.0,2.0,3.0,3.0,Detached Bungalow,Mowe Ofada,Ogun,10000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,77000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,70000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Agege,Lagos,23000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,25000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,78000000.0
+3.0,3.0,3.0,3.0,Detached Duplex,Lekki,Lagos,35000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Lugbe District,Abuja,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,170000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,40000000.0
+5.0,5.0,5.0,1.0,Detached Duplex,Lekki,Lagos,170000000.0
+4.0,4.0,6.0,2.0,Terraced Duplexes,Katampe,Abuja,58000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Lekki,Lagos,95000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Victoria Island (VI),Lagos,1000000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,20000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,82000000.0
+5.0,8.0,7.0,4.0,Detached Duplex,Lekki,Lagos,330000000.0
+3.0,3.0,3.0,1.0,Detached Bungalow,Ibeju Lekki,Lagos,20000000.0
+2.0,5.0,5.0,1.0,Terraced Bungalow,Idimu,Lagos,35000000.0
+3.0,4.0,4.0,5.0,Detached Bungalow,Obafemi Owode,Ogun,11500000.0
+4.0,5.0,5.0,7.0,Terraced Duplexes,Galadimawa,Abuja,90000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Agege,Lagos,16000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Lekki,Lagos,30000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,125000000.0
+7.0,8.0,8.0,6.0,Detached Duplex,Port Harcourt,Rivers,40000000.0
+1.0,5.0,2.0,2.0,Block of Flats,Durumi,Abuja,10000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,275000000.0
+3.0,4.0,4.0,6.0,Detached Bungalow,Galadimawa,Abuja,28000000.0
+6.0,6.0,8.0,8.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Gwarinpa,Abuja,20000000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Asokoro District,Abuja,200000000.0
+4.0,4.0,5.0,5.0,Detached Bungalow,Galadimawa,Abuja,45000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ibadan,Oyo,40000000.0
+4.0,4.0,5.0,3.0,Detached Bungalow,Orozo,Abuja,20000000.0
+1.0,5.0,5.0,1.0,Terraced Bungalow,Mowe Ofada,Ogun,6000000.0
+4.0,5.0,2.0,3.0,Terraced Duplexes,Kano,Kano,30000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ipaja,Lagos,35000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Maitama District,Abuja,650000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Guzape District,Abuja,95000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Apo,Abuja,50000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Ede South,Osun,6000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,77000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,300000000.0
+3.0,4.0,4.0,6.0,Detached Bungalow,Ibadan,Oyo,17000000.0
+5.0,6.0,7.0,8.0,Detached Duplex,Ikeja,Lagos,165000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,56000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Yaba,Lagos,85000000.0
+4.0,4.0,5.0,4.0,Block of Flats,Ikoyi,Lagos,185000000.0
+7.0,7.0,8.0,6.0,Detached Duplex,Owerri Municipal,Imo,100000000.0
+9.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,200000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,260000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ifo,Ogun,14000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,88000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Port Harcourt,Rivers,90000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ilupeju,Lagos,100000000.0
+3.0,4.0,4.0,3.0,Block of Flats,Lekki,Lagos,85000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Guzape District,Abuja,120000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Lekki,Lagos,140000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Lekki,Lagos,78000000.0
+5.0,5.0,5.0,5.0,Block of Flats,Ijoko,Ogun,14000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,42000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,76000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Wuse 2,Abuja,130000000.0
+6.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,135000000.0
+4.0,6.0,6.0,1.0,Detached Duplex,Lokogoma District,Abuja,85000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Ajah,Lagos,48000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Oluyole,Oyo,45000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Isheri North,Lagos,150000000.0
+3.0,3.0,4.0,8.0,Block of Flats,Ikeja,Lagos,36000000.0
+4.0,4.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,63000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Lekki,Lagos,42000000.0
+4.0,1.0,1.0,8.0,Block of Flats,Yaba,Lagos,85000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,105000000.0
+6.0,7.0,8.0,1.0,Detached Bungalow,Agbara-Igbesa,Lagos,75000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Surulere,Lagos,330000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Magodo,Lagos,300000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,87000000.0
+3.0,5.0,5.0,4.0,Terraced Bungalow,Ikot Ekpene,Akwa Ibom,82000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,16000000.0
+3.0,4.0,4.0,1.0,Detached Bungalow,Ikorodu,Lagos,7000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,275000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,85000000.0
+2.0,5.0,5.0,5.0,Detached Bungalow,Ifako-Ijaiye,Lagos,12000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Gwarinpa,Abuja,110000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Utako,Abuja,45000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,35000000.0
+4.0,4.0,5.0,3.0,Semi Detached Bungalow,Lekki,Lagos,60000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,85000000.0
+4.0,4.0,5.0,3.0,Semi Detached Bungalow,Lekki,Lagos,65000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,94000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Enugu,Enugu,65000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Maitama District,Abuja,750000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Ikeja,Lagos,550000000.0
+6.0,7.0,8.0,6.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+4.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,85000000.0
+5.0,4.0,4.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,350000000.0
+3.0,3.0,4.0,6.0,Semi Detached Bungalow,Lokogoma District,Abuja,35000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Lekki,Lagos,37000000.0
+4.0,4.0,5.0,8.0,Semi Detached Duplex,Maryland,Lagos,190000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,105000000.0
+5.0,4.0,6.0,6.0,Detached Duplex,Lekki,Lagos,180000000.0
+4.0,4.0,5.0,6.0,Detached Bungalow,Magodo,Lagos,72000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,135000000.0
+3.0,3.0,4.0,6.0,Block of Flats,Lekki,Lagos,35000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,44000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Victoria Island (VI),Lagos,160000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Ogudu,Lagos,198000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Shomolu,Lagos,250000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Asokoro District,Abuja,750000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Katampe,Abuja,450000000.0
+7.0,8.0,9.0,8.0,Detached Duplex,Ajah,Lagos,50000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,600000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Mbora (Nbora),Abuja,42000000.0
+5.0,6.0,6.0,3.0,Detached Duplex,Lekki,Lagos,100000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Durumi,Abuja,70000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,305000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ibadan North,Oyo,15000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Gwarinpa,Abuja,75000000.0
+2.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,25000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,130000000.0
+3.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,110000000.0
+7.0,7.0,8.0,4.0,Detached Duplex,Ikeja,Lagos,750000000.0
+2.0,5.0,5.0,4.0,Detached Bungalow,Kaduna North,Kaduna,5000000.0
+2.0,5.0,3.0,4.0,Block of Flats,Lekki,Lagos,60000000.0
+6.0,6.0,6.0,1.0,Detached Duplex,Isheri North,Lagos,155000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,45000000.0
+4.0,4.0,5.0,1.0,Detached Bungalow,Karu,Abuja,25000000.0
+5.0,5.0,7.0,1.0,Detached Duplex,Lekki,Lagos,180000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Durumi,Abuja,45000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Mabushi,Abuja,150000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Life Camp,Abuja,60000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Magodo,Lagos,130000000.0
+5.0,6.0,7.0,7.0,Block of Flats,Abeokuta South,Ogun,10000000.0
+4.0,4.0,4.0,8.0,Detached Duplex,Ajah,Lagos,45000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Oredo,Edo,40000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ijoko,Ogun,4000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,47000000.0
+5.0,4.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,150000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,105000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,190000000.0
+4.0,3.0,4.0,6.0,Terraced Bungalow,Ibeju Lekki,Lagos,25000000.0
+5.0,5.0,5.0,4.0,Block of Flats,Ado-Odo/Ota,Ogun,7000000.0
+7.0,7.0,8.0,5.0,Terraced Duplexes,Katampe,Abuja,120000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Arepo,Ogun,35000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,160000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,4500000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Owerri West,Imo,48000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,75000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Epe,Lagos,12000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Mowe Ofada,Ogun,10500000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,175000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Gwarinpa,Abuja,130000000.0
+4.0,4.0,4.0,2.0,Semi Detached Bungalow,Karsana,Abuja,100000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Jahi,Abuja,70000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,120000000.0
+4.0,5.0,5.0,3.0,Detached Duplex,Surulere,Lagos,56000000.0
+4.0,5.0,5.0,2.0,Detached Duplex,Lekki,Lagos,110000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Lekki,Lagos,45000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ojo,Lagos,35000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Isheri North,Lagos,80000000.0
+2.0,2.0,3.0,3.0,Terraced Duplexes,Lekki,Lagos,52000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,85500000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Katampe,Abuja,210000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Diplomatic Zones,Abuja,80000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Gbagada,Lagos,95000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,110000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,285000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Agege,Lagos,85000000.0
+4.0,4.0,5.0,6.0,Detached Bungalow,Kubwa,Abuja,35000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,70000000.0
+8.0,1.0,1.0,1.0,Block of Flats,Ajah,Lagos,65000000.0
+3.0,4.0,4.0,3.0,Terraced Bungalow,Gbagada,Lagos,60000000.0
+3.0,3.0,4.0,7.0,Terraced Duplexes,Arepo,Ogun,35000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Apo,Abuja,40000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Isolo,Lagos,80000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ajah,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,41000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Kurudu,Abuja,15000000.0
+3.0,2.0,2.0,4.0,Detached Bungalow,Ibadan,Oyo,22000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,50000000.0
+6.0,5.0,5.0,3.0,Detached Bungalow,Ikeja,Lagos,19000000.0
+9.0,6.0,6.0,4.0,Block of Flats,Ibadan,Oyo,130000000.0
+4.0,7.0,5.0,6.0,Detached Duplex,Life Camp,Abuja,90000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Amuwo Odofin,Lagos,250000000.0
+2.0,2.0,2.0,3.0,Detached Bungalow,Mowe Ofada,Ogun,7000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+3.0,4.0,4.0,4.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,49000000.0
+5.0,5.0,5.0,1.0,Detached Duplex,Lekki,Lagos,180000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,48000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Port Harcourt,Rivers,220000000.0
+2.0,3.0,4.0,4.0,Detached Bungalow,Ibadan,Oyo,22000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ilupeju,Lagos,95000000.0
+3.0,3.0,3.0,3.0,Detached Duplex,Ibeju Lekki,Lagos,55000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lugbe District,Abuja,50000000.0
+3.0,2.0,3.0,4.0,Detached Bungalow,Ajah,Lagos,27000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,1700000000.0
+2.0,2.0,3.0,2.0,Terraced Duplexes,Kubwa,Abuja,19000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Enugu,Enugu,50000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Gaduwa,Abuja,250000000.0
+8.0,8.0,9.0,8.0,Detached Duplex,Guzape District,Abuja,600000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Jabi,Abuja,70000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ajah,Lagos,28000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Lokogoma District,Abuja,14500000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,128000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,53000000.0
+4.0,6.0,7.0,1.0,Detached Duplex,Lekki,Lagos,120000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Ajah,Lagos,40000000.0
+3.0,4.0,4.0,6.0,Block of Flats,Agege,Lagos,45000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,76000000.0
+3.0,5.0,4.0,4.0,Detached Bungalow,Akinyele,Oyo,14000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Surulere,Lagos,80000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,2200000000.0
+3.0,2.0,2.0,5.0,Detached Bungalow,Alimosho,Lagos,10000000.0
+5.0,5.0,5.0,7.0,Detached Bungalow,Uyo,Akwa Ibom,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Yaba,Lagos,100000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Alimosho,Lagos,32000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,87000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Life Camp,Abuja,55000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Maryland,Lagos,80000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lokogoma District,Abuja,25000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ikoyi,Lagos,3000000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,90000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Gwarinpa,Abuja,50000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Ikoyi,Lagos,235000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Lekki,Lagos,40000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,90000000.0
+2.0,2.0,3.0,1.0,Detached Bungalow,Ajah,Lagos,24000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ajah,Lagos,42000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,295000000.0
+3.0,2.0,3.0,2.0,Detached Bungalow,Ajah,Lagos,27000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Lekki,Lagos,160000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,210000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Magodo,Lagos,45000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ikoyi,Lagos,235000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,60000000.0
+5.0,6.0,6.0,3.0,Detached Duplex,Lekki,Lagos,120000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Owerri Municipal,Imo,85000000.0
+2.0,1.0,1.0,1.0,Block of Flats,Ajah,Lagos,85000000.0
+4.0,6.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,80000000.0
+8.0,7.0,8.0,3.0,Detached Bungalow,Ejigbo,Lagos,60000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ajah,Lagos,38000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,680000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Ifako-Ijaiye,Lagos,30000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Apo,Abuja,55000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Eket,Akwa Ibom,25000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Karsana,Abuja,45500000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Ajah,Lagos,20000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Ifako-Ijaiye,Lagos,12500000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Ajah,Lagos,28500000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Gbagada,Lagos,55000000.0
+7.0,7.0,8.0,6.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+3.0,5.0,4.0,4.0,Block of Flats,Lekki,Lagos,35000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,33000000.0
+6.0,7.0,7.0,6.0,Detached Duplex,Magodo,Lagos,134000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Magodo,Lagos,250000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikorodu,Lagos,85000000.0
+6.0,4.0,4.0,4.0,Detached Duplex,Surulere,Lagos,90000000.0
+7.0,7.0,7.0,2.0,Detached Duplex,Port Harcourt,Rivers,240000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Ibadan,Oyo,8000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,45000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Ibadan,Oyo,40000000.0
+5.0,5.0,6.0,1.0,Semi Detached Duplex,Maitama District,Abuja,700000000.0
+3.0,2.0,2.0,6.0,Block of Flats,Ikotun,Lagos,55000000.0
+4.0,4.0,6.0,4.0,Terraced Duplexes,Apo,Abuja,65000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Ajah,Lagos,29500000.0
+3.0,4.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,34000000.0
+4.0,4.0,5.0,9.0,Detached Duplex,Port Harcourt,Rivers,50000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Ejigbo,Lagos,120000000.0
+4.0,4.0,5.0,1.0,Detached Bungalow,Ajah,Lagos,40000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,265000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,65000000.0
+5.0,8.0,8.0,8.0,Detached Duplex,Oluyole,Oyo,70000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Ikoyi,Lagos,250000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Life Camp,Abuja,98000000.0
+5.0,4.0,7.0,9.0,Detached Duplex,Port Harcourt,Rivers,50000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Lekki,Lagos,76000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,210000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,110000000.0
+8.0,8.0,9.0,7.0,Detached Duplex,Asokoro District,Abuja,900000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,47000000.0
+3.0,4.0,5.0,6.0,Detached Bungalow,Ajah,Lagos,38000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Ibeju Lekki,Lagos,48000000.0
+5.0,5.0,5.0,1.0,Detached Duplex,Ajah,Lagos,90000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Life Camp,Abuja,28000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Oredo,Edo,25000000.0
+6.0,5.0,7.0,4.0,Detached Duplex,Apo,Abuja,85000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,140000000.0
+4.0,4.0,5.0,7.0,Terraced Duplexes,Maryland,Lagos,85000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,11000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Guzape District,Abuja,350000000.0
+6.0,6.0,7.0,3.0,Detached Duplex,Ajah,Lagos,80000000.0
+5.0,6.0,6.0,3.0,Detached Duplex,Gwarinpa,Abuja,55000000.0
+4.0,4.0,4.0,3.0,Terraced Duplexes,Gaduwa,Abuja,60000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Magodo,Lagos,160000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Katampe,Abuja,200000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,55000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Ajah,Lagos,45000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,310000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,265000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Lekki,Lagos,380000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Maitama District,Abuja,900000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Ibeju Lekki,Lagos,10700000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,100000000.0
+1.0,5.0,2.0,6.0,Detached Bungalow,Ajah,Lagos,40000000.0
+8.0,9.0,9.0,2.0,Detached Duplex,Maitama District,Abuja,1000000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Guzape District,Abuja,70000000.0
+8.0,5.0,5.0,4.0,Detached Duplex,Kaura,Abuja,220000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Guzape District,Abuja,70000000.0
+4.0,4.0,4.0,5.0,Detached Bungalow,Owerri Municipal,Imo,23000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Asokoro District,Abuja,150000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Katampe,Abuja,200000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,92000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Asokoro District,Abuja,1200000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Oredo,Edo,32000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Ojodu,Lagos,50000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Lekki,Lagos,190000000.0
+4.0,6.0,6.0,3.0,Terraced Duplexes,Life Camp,Abuja,60000000.0
+4.0,4.0,5.0,7.0,Semi Detached Duplex,Maryland,Lagos,180000000.0
+4.0,5.0,5.0,4.0,Terraced Bungalow,Ikorodu,Lagos,16500000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,130000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Idu Industrial,Abuja,23000000.0
+5.0,5.0,6.0,7.0,Terraced Duplexes,Gwarinpa,Abuja,120000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,87000000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,96000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Maitama District,Abuja,220000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Ikeja,Lagos,90000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Ajah,Lagos,75000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,8000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Lekki,Lagos,140000000.0
+7.0,8.0,9.0,5.0,Detached Duplex,Lekki,Lagos,380000000.0
+4.0,5.0,6.0,5.0,Semi Detached Duplex,Ajah,Lagos,70000000.0
+7.0,7.0,8.0,4.0,Detached Duplex,Lekki,Lagos,250000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,51000000.0
+4.0,4.0,5.0,3.0,Block of Flats,Wuye,Abuja,30000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,87000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ikeja,Lagos,65000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,36000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Ipaja,Lagos,33000000.0
+3.0,2.0,3.0,8.0,Detached Bungalow,Ikorodu,Lagos,12000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,260000000.0
+3.0,2.0,3.0,4.0,Detached Bungalow,Lekki,Lagos,22000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Wuse 2,Abuja,240000000.0
+8.0,8.0,1.0,4.0,Detached Duplex,Asokoro District,Abuja,550000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Ibadan,Oyo,60000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Isheri,Lagos,140000000.0
+3.0,2.0,3.0,6.0,Block of Flats,Kosofe,Lagos,35000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,155000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Kurudu,Abuja,25000000.0
+1.0,1.0,1.0,4.0,Detached Duplex,Lekki,Lagos,950000000.0
+5.0,4.0,5.0,4.0,Detached Duplex,Ajah,Lagos,55000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Enugu,Enugu,135000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,155000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Owerri Municipal,Imo,40000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Ibeju Lekki,Lagos,63000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Lekki,Lagos,33000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,52000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,62000000.0
+4.0,6.0,6.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,115000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Kubwa,Abuja,24000000.0
+3.0,3.0,4.0,3.0,Detached Duplex,Lekki,Lagos,105000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Lekki,Lagos,35000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Life Camp,Abuja,65000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ajah,Lagos,43000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,90500000.0
+4.0,4.0,5.0,9.0,Detached Bungalow,Port Harcourt,Rivers,33000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,430000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,320000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maitama District,Abuja,250000000.0
+3.0,4.0,4.0,3.0,Detached Duplex,Lugbe District,Abuja,15000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,120000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Oredo,Edo,55000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Asokoro District,Abuja,900000000.0
+7.0,3.0,4.0,4.0,Block of Flats,Guzape District,Abuja,37000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Isheri North,Lagos,35000000.0
+7.0,5.0,5.0,4.0,Detached Duplex,Maitama District,Abuja,1500000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Ojo,Lagos,50000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,40000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,6000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Guzape District,Abuja,190000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Yaba,Lagos,30000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,82000000.0
+4.0,4.0,4.0,3.0,Detached Bungalow,Enugu,Enugu,28000000.0
+3.0,2.0,2.0,6.0,Detached Bungalow,Ikotun,Lagos,14000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Oredo,Edo,65000000.0
+6.0,4.0,4.0,2.0,Detached Duplex,Asokoro District,Abuja,1300000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Ikeja,Lagos,650000000.0
+4.0,5.0,5.0,6.0,Terraced Duplexes,Lekki,Lagos,120000000.0
+2.0,3.0,3.0,3.0,Block of Flats,Guzape District,Abuja,22000000.0
+7.0,7.0,8.0,6.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+4.0,4.0,4.0,5.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+4.0,4.0,5.0,6.0,Terraced Duplexes,Ikoyi,Lagos,260000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Ikoyi,Lagos,234000000.0
+1.0,5.0,5.0,7.0,Block of Flats,Isolo,Lagos,70000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,100000000.0
+3.0,3.0,4.0,3.0,Semi Detached Bungalow,Lekki,Lagos,33000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Sango Ota,Ogun,12000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,85000000.0
+6.0,5.0,6.0,4.0,Detached Duplex,Life Camp,Abuja,162000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,47000000.0
+4.0,5.0,5.0,1.0,Detached Duplex,Ajah,Lagos,95000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,140000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Surulere,Lagos,100000000.0
+2.0,5.0,5.0,8.0,Block of Flats,Ikorodu,Lagos,36000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikeja,Lagos,80000000.0
+3.0,4.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,48000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Maryland,Lagos,90000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,275000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,330000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Ibadan,Oyo,19000000.0
+4.0,3.0,4.0,4.0,Detached Duplex,Uyo,Akwa Ibom,20000000.0
+4.0,6.0,5.0,8.0,Semi Detached Duplex,Apo,Abuja,165000000.0
+3.0,3.0,4.0,6.0,Semi Detached Bungalow,Lugbe District,Abuja,17000000.0
+1.0,1.0,5.0,5.0,Detached Bungalow,Agege,Lagos,18000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,6500000.0
+5.0,6.0,5.0,4.0,Detached Duplex,Ajah,Lagos,140000000.0
+3.0,4.0,4.0,6.0,Detached Duplex,Ajah,Lagos,45000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Katampe,Abuja,1300000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Durumi,Abuja,50000000.0
+8.0,5.0,5.0,4.0,Detached Duplex,Yaba,Lagos,110000000.0
+2.0,3.0,3.0,2.0,Terraced Duplexes,Ibeju Lekki,Lagos,26000000.0
+3.0,3.0,3.0,5.0,Detached Bungalow,Lokogoma District,Abuja,22000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Mbora (Nbora),Abuja,65000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikeja,Lagos,185000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Lekki,Lagos,130000000.0
+3.0,4.0,4.0,6.0,Semi Detached Bungalow,Lokogoma District,Abuja,30000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,210000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maryland,Lagos,87000000.0
+1.0,5.0,5.0,4.0,Detached Duplex,Ilorin South,Kwara,30000000.0
+3.0,1.0,1.0,4.0,Block of Flats,Surulere,Lagos,80000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Obafemi Owode,Ogun,20000000.0
+5.0,5.0,6.0,2.0,Semi Detached Duplex,Ikoyi,Lagos,550000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Port Harcourt,Rivers,130000000.0
+5.0,6.0,6.0,7.0,Detached Duplex,Ajah,Lagos,130000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,28000000.0
+7.0,7.0,8.0,1.0,Detached Duplex,Maitama District,Abuja,700000000.0
+4.0,4.0,5.0,9.0,Detached Duplex,Port Harcourt,Rivers,45000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,450000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Kafe,Abuja,160000000.0
+6.0,6.0,6.0,4.0,Detached Bungalow,Oyo West,Oyo,16000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Agege,Lagos,55000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,38000000.0
+6.0,6.0,8.0,8.0,Detached Duplex,Kosofe,Lagos,155000000.0
+4.0,4.0,4.0,3.0,Detached Bungalow,Ipaja,Lagos,26000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Port Harcourt,Rivers,40000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,400000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Lekki,Lagos,16000000.0
+5.0,6.0,6.0,4.0,Semi Detached Duplex,Katampe,Abuja,75000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ibadan,Oyo,20000000.0
+4.0,5.0,5.0,5.0,Detached Bungalow,Diplomatic Zones,Abuja,68000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,72000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,38000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Lekki,Lagos,36500000.0
+5.0,7.0,6.0,1.0,Detached Duplex,Owerri Municipal,Imo,210000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Owerri Municipal,Imo,65000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,57000000.0
+4.0,5.0,5.0,3.0,Detached Duplex,Ikeja,Lagos,165000000.0
+4.0,4.0,5.0,1.0,Detached Bungalow,Ibeju Lekki,Lagos,22000000.0
+4.0,3.0,3.0,5.0,Detached Bungalow,Ijede,Lagos,15000000.0
+2.0,2.0,3.0,1.0,Block of Flats,Ajah,Lagos,20000000.0
+3.0,4.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,19800000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikoyi,Lagos,1300000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,180000000.0
+5.0,6.0,6.0,3.0,Semi Detached Duplex,Kaura,Abuja,60000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Victoria Island (VI),Lagos,125000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,92000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,87000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Katampe,Abuja,450000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Port Harcourt,Rivers,70000000.0
+4.0,4.0,5.0,1.0,Detached Bungalow,Isolo,Lagos,78000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,170000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,270000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Central Business District,Abuja,150000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,60000000.0
+1.0,5.0,5.0,4.0,Block of Flats,Lekki,Lagos,27500000.0
+5.0,5.0,6.0,2.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Maitama District,Abuja,550000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Wuse,Abuja,200000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Asokoro District,Abuja,400000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,46000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Lugbe District,Abuja,26000000.0
+4.0,2.0,2.0,4.0,Detached Bungalow,Alimosho,Lagos,7000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,70000000.0
+2.0,3.0,3.0,2.0,Block of Flats,Lekki,Lagos,58000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Apo,Abuja,85000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Enugu,Enugu,75000000.0
+4.0,5.0,6.0,5.0,Semi Detached Duplex,Lekki,Lagos,78000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Owerri West,Imo,170000000.0
+5.0,5.0,5.0,7.0,Detached Duplex,Lekki,Lagos,75000000.0
+3.0,3.0,4.0,6.0,Detached Bungalow,Lokogoma District,Abuja,22000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ikoyi,Lagos,1500000000.0
+3.0,4.0,5.0,4.0,Detached Duplex,Oredo,Edo,30000000.0
+3.0,3.0,4.0,5.0,Semi Detached Duplex,Port Harcourt,Rivers,35000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Guzape District,Abuja,300000000.0
+3.0,5.0,2.0,4.0,Detached Bungalow,Ikorodu,Lagos,10500000.0
+4.0,3.0,3.0,7.0,Detached Duplex,Victoria Island (VI),Lagos,370000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,265000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Victoria Island (VI),Lagos,145000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Ibeju Lekki,Lagos,98000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Yaba,Lagos,50000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,260000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Port Harcourt,Rivers,20000000.0
+4.0,2.0,2.0,4.0,Semi Detached Bungalow,Yaba,Lagos,45000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Kabusa,Abuja,55000000.0
+1.0,2.0,2.0,4.0,Block of Flats,Mowe Ofada,Ogun,5800000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Ajah,Lagos,120000000.0
+3.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibadan North,Oyo,65000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Ajah,Lagos,60000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Port Harcourt,Rivers,85000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Katampe,Abuja,160000000.0
+5.0,6.0,7.0,3.0,Terraced Duplexes,Katampe,Abuja,70000000.0
+6.0,6.0,7.0,2.0,Detached Duplex,Gwarinpa,Abuja,140000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Karu,Abuja,60000000.0
+1.0,1.0,1.0,1.0,Block of Flats,Mowe Ofada,Ogun,30000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,12000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,150000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Idimu,Lagos,35000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Agege,Lagos,4500000.0
+5.0,5.0,5.0,8.0,Detached Duplex,Ajah,Lagos,170000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Agege,Lagos,14000000.0
+4.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,65000000.0
+3.0,4.0,4.0,8.0,Detached Duplex,Port Harcourt,Rivers,25000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Mowe Ofada,Ogun,8500000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,100000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Karu,Nasarawa,9000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Gaduwa,Abuja,100000000.0
+3.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,60000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Guzape District,Abuja,75000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Lokogoma District,Abuja,40000000.0
+8.0,9.0,1.0,7.0,Detached Duplex,Owerri North,Imo,200000000.0
+1.0,2.0,2.0,4.0,Detached Bungalow,Galadimawa,Abuja,45000000.0
+3.0,4.0,4.0,7.0,Detached Bungalow,Gwarinpa,Abuja,53000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,240000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Katampe,Abuja,120000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,250000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,90000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+4.0,5.0,5.0,3.0,Terraced Bungalow,Asaba,Delta,25000000.0
+2.0,3.0,5.0,1.0,Terraced Bungalow,Ikorodu,Lagos,6500000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,130000000.0
+3.0,4.0,5.0,4.0,Terraced Duplexes,Ajah,Lagos,55000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,59000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,245000000.0
+1.0,1.0,1.0,5.0,Detached Duplex,Victoria Island (VI),Lagos,1400000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,24000000.0
+3.0,3.0,4.0,1.0,Block of Flats,Ajah,Lagos,45000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,75000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Ajah,Lagos,55000000.0
+6.0,6.0,7.0,7.0,Detached Bungalow,Ipaja,Lagos,25000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,55000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Mowe Town,Ogun,16000000.0
+7.0,5.0,8.0,4.0,Block of Flats,Port Harcourt,Rivers,168000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Apo,Abuja,45000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Ajah,Lagos,46000000.0
+5.0,5.0,6.0,9.0,Detached Duplex,Lekki,Lagos,400000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Ajah,Lagos,47000000.0
+3.0,4.0,4.0,4.0,Detached Duplex,Lokogoma District,Abuja,18000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Jahi,Abuja,170000000.0
+3.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,46000000.0
+2.0,2.0,2.0,2.0,Detached Duplex,Lekki,Lagos,28000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Enugu,Enugu,43000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Katampe,Abuja,230000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Kubwa,Abuja,40000000.0
+3.0,3.0,4.0,1.0,Block of Flats,Ajah,Lagos,120000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,128000000.0
+4.0,4.0,5.0,6.0,Semi Detached Duplex,Kaura,Abuja,50000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Owerri Municipal,Imo,25000000.0
+3.0,3.0,4.0,6.0,Block of Flats,Ajah,Lagos,150000000.0
+4.0,4.0,4.0,2.0,Detached Duplex,Isolo,Lagos,80000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,800000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,650000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Ikoyi,Lagos,2500000000.0
+4.0,5.0,5.0,2.0,Detached Duplex,Victoria Island (VI),Lagos,165000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Asokoro District,Abuja,160000000.0
+6.0,7.0,7.0,7.0,Detached Bungalow,Ikotun,Lagos,30000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,200000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Gwarinpa,Abuja,50000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Jahi,Abuja,70000000.0
+3.0,3.0,4.0,1.0,Detached Duplex,Ifako-Ijaiye,Lagos,12500000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ifako-Ijaiye,Lagos,12500000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,180000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Lugbe District,Abuja,37000000.0
+6.0,7.0,7.0,7.0,Detached Duplex,Victoria Island (VI),Lagos,550000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Magodo,Lagos,78000000.0
+2.0,1.0,1.0,6.0,Block of Flats,Agege,Lagos,37000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,35000000.0
+4.0,3.0,3.0,4.0,Block of Flats,Ibadan,Oyo,30000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Lekki,Lagos,84000000.0
+3.0,2.0,2.0,8.0,Block of Flats,Surulere,Lagos,210000000.0
+5.0,5.0,5.0,1.0,Detached Duplex,Ipaja,Lagos,25000000.0
+5.0,4.0,4.0,4.0,Detached Duplex,Lokogoma District,Abuja,25000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ajah,Lagos,95000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,2000000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Ajah,Lagos,108000000.0
+4.0,4.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,105000000.0
+4.0,5.0,6.0,3.0,Detached Duplex,Ajah,Lagos,57000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,700000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Simawa,Ogun,45000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,85000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ikorodu,Lagos,3500000.0
+3.0,4.0,4.0,4.0,Semi Detached Bungalow,Lugbe District,Abuja,27000000.0
+5.0,6.0,6.0,2.0,Detached Bungalow,Owerri Municipal,Imo,25000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,82000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Wuse 2,Abuja,280000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,130000000.0
+5.0,8.0,9.0,1.0,Detached Duplex,Galadimawa,Abuja,95000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Amuwo Odofin,Lagos,40000000.0
+3.0,3.0,4.0,2.0,Semi Detached Duplex,Lekki,Lagos,40000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Apo,Abuja,60000000.0
+4.0,4.0,5.0,5.0,Semi Detached Bungalow,Gbagada,Lagos,90000000.0
+3.0,4.0,4.0,5.0,Semi Detached Bungalow,Ajah,Lagos,30000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,260000000.0
+3.0,3.0,3.0,8.0,Block of Flats,Isolo,Lagos,45000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikoyi,Lagos,2500000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Diplomatic Zones,Abuja,40000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Garki,Abuja,75000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,75000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Life Camp,Abuja,55000000.0
+4.0,4.0,5.0,7.0,Semi Detached Duplex,Apo,Abuja,125000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Mowe Town,Ogun,10500000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ibadan South-West,Oyo,65000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Alimosho,Lagos,5000000.0
+6.0,6.0,6.0,4.0,Detached Bungalow,Ketu,Lagos,60000000.0
+4.0,4.0,6.0,6.0,Detached Duplex,Apo,Abuja,53000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Owerri Municipal,Imo,65000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Lekki,Lagos,98000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Arepo,Ogun,45000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Mabushi,Abuja,75000000.0
+7.0,7.0,8.0,6.0,Detached Duplex,Port Harcourt,Rivers,75000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Magodo,Lagos,60000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Gwarinpa,Abuja,250000000.0
+3.0,3.0,4.0,5.0,Semi Detached Bungalow,Kurudu,Abuja,40000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,97000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,210000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,420000000.0
+3.0,3.0,4.0,6.0,Terraced Duplexes,Lekki,Lagos,34000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,105000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Ikeja,Lagos,78000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Surulere,Lagos,75000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,75000000.0
+5.0,6.0,6.0,4.0,Semi Detached Bungalow,Victoria Island (VI),Lagos,250000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Owerri Municipal,Imo,75000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Port Harcourt,Rivers,90000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ibadan North-West,Oyo,35000000.0
+5.0,6.0,7.0,5.0,Semi Detached Duplex,Ikeja,Lagos,120000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Apo,Abuja,450000000.0
+4.0,5.0,6.0,4.0,Terraced Duplexes,Maitama District,Abuja,130000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Guzape District,Abuja,145000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Ajah,Lagos,28500000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ojo,Lagos,14000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Ikeja,Lagos,70000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ikeja,Lagos,130000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Katampe,Abuja,220000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,120000000.0
+6.0,7.0,5.0,5.0,Detached Duplex,Port Harcourt,Rivers,48000000.0
+4.0,4.0,6.0,6.0,Detached Bungalow,Port Harcourt,Rivers,55000000.0
+6.0,5.0,5.0,8.0,Detached Duplex,Ikoyi,Lagos,1300000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Yaba,Lagos,50000000.0
+3.0,2.0,2.0,3.0,Terraced Bungalow,Alimosho,Lagos,20000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Mowe Town,Ogun,16000000.0
+6.0,2.0,3.0,2.0,Detached Bungalow,Kuje,Abuja,12000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Ibadan,Oyo,27500000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,330000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Ibeju Lekki,Lagos,30000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Maitama District,Abuja,1300000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Mowe Town,Ogun,45000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,95000000.0
+4.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,77000000.0
+5.0,6.0,5.0,7.0,Detached Duplex,Ikoyi,Lagos,1500000000.0
+4.0,5.0,5.0,4.0,Block of Flats,KM 46,Ogun,20000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,150000000.0
+1.0,1.0,2.0,1.0,Block of Flats,Gudu,Abuja,170000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ojo,Lagos,60000000.0
+6.0,7.0,7.0,6.0,Detached Duplex,Ikoyi,Lagos,1300000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Lekki,Lagos,40000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Arepo,Ogun,30000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,91000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Apo,Abuja,55000000.0
+4.0,4.0,5.0,9.0,Detached Duplex,Port Harcourt,Rivers,91000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,165000000.0
+7.0,7.0,7.0,9.0,Detached Duplex,Oredo,Edo,50000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Agege,Lagos,22000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,45000000.0
+5.0,6.0,7.0,8.0,Detached Duplex,Ikoyi,Lagos,600000000.0
+7.0,7.0,7.0,4.0,Detached Duplex,Agege,Lagos,58000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Wuse 2,Abuja,150000000.0
+6.0,6.0,6.0,4.0,Detached Bungalow,Ikorodu,Lagos,12000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,70000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,70000000.0
+3.0,2.0,2.0,2.0,Detached Bungalow,Ikorodu,Lagos,4500000.0
+4.0,4.0,4.0,1.0,Detached Duplex,Oredo,Edo,95000000.0
+6.0,6.0,6.0,5.0,Detached Duplex,Abeokuta South,Ogun,22000000.0
+5.0,6.0,6.0,1.0,Detached Duplex,Lekki,Lagos,105000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,450000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,110000000.0
+3.0,5.0,5.0,4.0,Semi Detached Bungalow,Lugbe District,Abuja,27000000.0
+2.0,2.0,2.0,1.0,Block of Flats,Ojo,Lagos,38000000.0
+4.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,15500000.0
+1.0,1.0,1.0,2.0,Detached Duplex,Ikeja,Lagos,400000000.0
+4.0,4.0,5.0,7.0,Terraced Duplexes,Guzape District,Abuja,65000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Arepo,Ogun,35000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Magodo,Lagos,225000000.0
+1.0,1.0,1.0,4.0,Detached Duplex,Ibadan,Oyo,120000000.0
+4.0,5.0,6.0,1.0,Detached Bungalow,Ikorodu,Lagos,35000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,260000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Magboro,Ogun,23500000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Gwarinpa,Abuja,38000000.0
+3.0,2.0,3.0,8.0,Block of Flats,Enugu,Enugu,60000000.0
+7.0,1.0,1.0,7.0,Detached Duplex,Maitama District,Abuja,1000000000.0
+2.0,2.0,2.0,2.0,Semi Detached Bungalow,Mbora (Nbora),Abuja,25000000.0
+7.0,7.0,8.0,2.0,Detached Duplex,Asokoro District,Abuja,3500000000.0
+3.0,4.0,4.0,1.0,Detached Bungalow,Ajah,Lagos,27000000.0
+2.0,2.0,2.0,4.0,Terraced Bungalow,Lekki,Lagos,13000000.0
+4.0,4.0,4.0,6.0,Terraced Duplexes,Kado,Abuja,45000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Enugu,Enugu,70000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Lekki,Lagos,68000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,180000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Ikeja,Lagos,350000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Bwari,Abuja,30000000.0
+5.0,6.0,5.0,4.0,Detached Duplex,Lekki,Lagos,330000000.0
+5.0,6.0,7.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,300000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Life Camp,Abuja,85000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Jabi,Abuja,100000000.0
+3.0,3.0,5.0,5.0,Detached Bungalow,Ogudu,Lagos,90000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,81000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,128000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Isheri North,Lagos,60000000.0
+2.0,2.0,3.0,4.0,Terraced Duplexes,Mabushi,Abuja,45000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,97000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Ajah,Lagos,250000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Maitama District,Abuja,1500000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Life Camp,Abuja,24000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Surulere,Lagos,78000000.0
+8.0,8.0,8.0,1.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,740000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Arepo,Ogun,50000000.0
+5.0,3.0,6.0,6.0,Detached Duplex,Ajah,Lagos,260000000.0
+4.0,4.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,175000000.0
+3.0,2.0,3.0,4.0,Block of Flats,Ajah,Lagos,15000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Owerri Municipal,Imo,75000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Gwarinpa,Abuja,100000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Life Camp,Abuja,60000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lokogoma District,Abuja,60000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Wuse 2,Abuja,120000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,38000000.0
+9.0,9.0,1.0,4.0,Detached Duplex,Gwarinpa,Abuja,400000000.0
+4.0,6.0,5.0,4.0,Detached Duplex,Life Camp,Abuja,70000000.0
+3.0,5.0,5.0,4.0,Detached Duplex,Isolo,Lagos,125000000.0
+4.0,5.0,5.0,2.0,Detached Duplex,Ikoyi,Lagos,290000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Mbora (Nbora),Abuja,85000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Katampe,Abuja,75000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Karsana,Abuja,95000000.0
+3.0,1.0,1.0,4.0,Block of Flats,Oshodi,Lagos,69000000.0
+4.0,3.0,3.0,2.0,Block of Flats,Oredo,Edo,15000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Ikoyi,Lagos,750000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gaduwa,Abuja,52000000.0
+4.0,5.0,6.0,4.0,Terraced Duplexes,Wuye,Abuja,90000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikorodu,Lagos,19999999.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Kuje,Abuja,15000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,600000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Lokogoma District,Abuja,29000000.0
+3.0,5.0,2.0,4.0,Semi Detached Bungalow,Owerri Municipal,Imo,37000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,220000000.0
+6.0,6.0,6.0,4.0,Detached Bungalow,Ifako-Ijaiye,Lagos,15000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,145000000.0
+1.0,5.0,5.0,4.0,Detached Duplex,Kubwa,Abuja,40000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Life Camp,Abuja,65000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Ikoyi,Lagos,1700000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Port Harcourt,Rivers,95000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Life Camp,Abuja,162000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Gbagada,Lagos,65000000.0
+5.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,95000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Ajah,Lagos,48000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Lekki,Lagos,80000000.0
+2.0,5.0,2.0,4.0,Block of Flats,Ajah,Lagos,25000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Ajah,Lagos,36000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,50000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Enugu,Enugu,125000000.0
+3.0,4.0,4.0,7.0,Detached Bungalow,Gwarinpa,Abuja,48000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Ajah,Lagos,65000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ikeja,Lagos,110000000.0
+3.0,3.0,4.0,6.0,Detached Bungalow,Ikotun,Lagos,37000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Ipaja,Lagos,15000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lokogoma District,Abuja,60000000.0
+4.0,5.0,5.0,5.0,Detached Bungalow,Owerri West,Imo,10000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Ajah,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,40000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Gwarinpa,Abuja,50000000.0
+4.0,6.0,5.0,4.0,Terraced Duplexes,Jabi,Abuja,100000000.0
+3.0,5.0,4.0,4.0,Block of Flats,Lekki,Lagos,48000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,62000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Port Harcourt,Rivers,24000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Ikeja,Lagos,160000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ikeja,Lagos,105000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Ado-Odo/Ota,Ogun,15000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Gwarinpa,Abuja,80000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Ibadan,Oyo,23000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,83000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Lekki,Lagos,190000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Guzape District,Abuja,90000000.0
+2.0,2.0,2.0,1.0,Block of Flats,Oredo,Edo,70000000.0
+5.0,6.0,5.0,6.0,Detached Duplex,Ikoyi,Lagos,700000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Gwarinpa,Abuja,355000000.0
+6.0,6.0,7.0,3.0,Detached Duplex,Gwarinpa,Abuja,250000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,77000000.0
+4.0,4.0,5.0,1.0,Semi Detached Duplex,Lekki,Lagos,190000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,146000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,56000000.0
+8.0,5.0,5.0,1.0,Detached Duplex,Maitama District,Abuja,400000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Owerri Municipal,Imo,65000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,6000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,107000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Apo,Abuja,100000000.0
+2.0,2.0,5.0,4.0,Block of Flats,Ibadan,Oyo,15000000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Isheri North,Ogun,35000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Lugbe District,Abuja,26500000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Asaba,Delta,125000000.0
+4.0,5.0,4.0,4.0,Semi Detached Duplex,Gwarinpa,Abuja,100000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,360000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Bwari,Abuja,25000000.0
+6.0,6.0,4.0,6.0,Detached Bungalow,Surulere,Lagos,80000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Wuse 2,Abuja,600000000.0
+5.0,6.0,6.0,2.0,Detached Duplex,Lekki,Lagos,150000000.0
+4.0,4.0,5.0,1.0,Semi Detached Duplex,Asokoro District,Abuja,80000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,17000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Maitama District,Abuja,360000000.0
+3.0,3.0,4.0,2.0,Semi Detached Bungalow,Lekki,Lagos,18500000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Ibeju Lekki,Lagos,58000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,35000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ogudu,Lagos,80000000.0
+3.0,4.0,4.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,25000000.0
+4.0,6.0,5.0,6.0,Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Katampe,Abuja,200000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Magodo,Lagos,140000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Alimosho,Lagos,150000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Gudu,Abuja,59000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Isheri North,Lagos,70000000.0
+2.0,2.0,2.0,1.0,Block of Flats,Ajah,Lagos,63000000.0
+4.0,5.0,6.0,1.0,Detached Duplex,Lokogoma District,Abuja,70000000.0
+2.0,1.0,1.0,4.0,Block of Flats,Ojo,Lagos,40000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,100000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,50000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Durumi,Abuja,150000000.0
+5.0,4.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,13500000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Duboyi,Abuja,120000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Isheri North,Lagos,58000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Kubwa,Abuja,30000000.0
+4.0,4.0,5.0,9.0,Detached Duplex,Lekki,Lagos,90000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,130000000.0
+4.0,4.0,4.0,7.0,Detached Bungalow,Gwarinpa,Abuja,35000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,420000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,48000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ajah,Lagos,120000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,125000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Yaba,Lagos,45000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Magodo,Lagos,170000000.0
+4.0,5.0,5.0,3.0,Detached Duplex,Port Harcourt,Rivers,60000000.0
+3.0,3.0,4.0,6.0,Detached Bungalow,Lokogoma District,Abuja,26000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Ajah,Lagos,29900000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,130000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Wuse,Abuja,220000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Lekki,Lagos,98000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikorodu,Lagos,50000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Ajah,Lagos,30000000.0
+2.0,2.0,3.0,3.0,Block of Flats,Lekki,Lagos,40000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,115000000.0
+1.0,1.0,2.0,2.0,Block of Flats,Port Harcourt,Rivers,160000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Port Harcourt,Rivers,140000000.0
+4.0,6.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,75000000.0
+5.0,7.0,7.0,8.0,Detached Duplex,Ikoyi,Lagos,1600000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,15000000.0
+3.0,3.0,3.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,35000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ikoyi,Lagos,1000000000.0
+9.0,9.0,1.0,1.0,Detached Duplex,Lekki,Lagos,255000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,260000000.0
+4.0,4.0,4.0,5.0,Detached Duplex,Alimosho,Lagos,70000000.0
+5.0,5.0,5.0,5.0,Detached Bungalow,Ipaja,Lagos,35000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,39900000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Gwarinpa,Abuja,75000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikoyi,Lagos,600000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,32000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Ajah,Lagos,97000000.0
+4.0,3.0,3.0,4.0,Detached Duplex,Ibadan,Oyo,35000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+6.0,5.0,7.0,1.0,Detached Duplex,Victoria Island (VI),Lagos,460000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Wuye,Abuja,65000000.0
+5.0,4.0,4.0,4.0,Detached Bungalow,Ibadan,Oyo,30000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,65000000.0
+3.0,4.0,4.0,2.0,Block of Flats,Yaba,Lagos,40000000.0
+6.0,7.0,7.0,8.0,Detached Duplex,Lekki,Lagos,410000000.0
+3.0,2.0,2.0,2.0,Detached Bungalow,Ikorodu,Lagos,7500000.0
+5.0,7.0,7.0,1.0,Detached Duplex,Gwarinpa,Abuja,125000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,73000000.0
+4.0,5.0,6.0,2.0,Terraced Duplexes,Lekki,Lagos,60000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Sango Ota,Ogun,35000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,60000000.0
+2.0,2.0,3.0,2.0,Terraced Duplexes,Lekki,Lagos,60000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,260000000.0
+1.0,5.0,5.0,1.0,Block of Flats,Ajah,Lagos,12000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,173000000.0
+2.0,2.0,2.0,2.0,Detached Bungalow,Abeokuta South,Ogun,30000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Maryland,Lagos,200000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibadan,Oyo,17000000.0
+4.0,4.0,5.0,4.0,Terraced Bungalow,Lekki,Lagos,47500000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Isheri North,Lagos,80000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,68000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Katampe,Abuja,160000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Owerri Municipal,Imo,50000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Ikoyi,Lagos,320000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Ajah,Lagos,70000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Life Camp,Abuja,100000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,200000000.0
+7.0,7.0,8.0,5.0,Detached Duplex,Ikeja,Lagos,250000000.0
+7.0,7.0,8.0,8.0,Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Lekki,Lagos,40000000.0
+2.0,2.0,2.0,2.0,Block of Flats,Ajah,Lagos,40000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ibeju Lekki,Lagos,50000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Jahi,Abuja,79999999.0
+4.0,5.0,5.0,5.0,Terraced Duplexes,Katampe,Abuja,80000000.0
+2.0,2.0,3.0,2.0,Detached Bungalow,Lokogoma District,Abuja,30000000.0
+3.0,4.0,4.0,7.0,Detached Bungalow,Ejigbo,Lagos,16000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,250000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Ikoyi,Lagos,265000000.0
+3.0,3.0,3.0,1.0,Semi Detached Bungalow,Ifo,Ogun,11500000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,300000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,15000000.0
+5.0,9.0,9.0,4.0,Detached Duplex,Asokoro District,Abuja,600000000.0
+4.0,4.0,6.0,4.0,Detached Duplex,Lekki,Lagos,90000000.0
+5.0,6.0,7.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,450000000.0
+4.0,3.0,3.0,3.0,Terraced Duplexes,Ajah,Lagos,50000000.0
+7.0,8.0,8.0,6.0,Detached Duplex,Katampe,Abuja,350000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Kado,Abuja,90000000.0
+8.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,40000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Ajah,Lagos,50000000.0
+6.0,6.0,7.0,6.0,Detached Duplex,Ajah,Lagos,56000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Asaba,Delta,100000000.0
+5.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,55000000.0
+3.0,3.0,4.0,7.0,Detached Duplex,Ikeja,Lagos,130000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,230000000.0
+3.0,4.0,4.0,3.0,Detached Bungalow,Ajah,Lagos,20000000.0
+1.0,5.0,2.0,4.0,Detached Duplex,Ajah,Lagos,35000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Magodo,Lagos,180000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,32500000.0
+3.0,3.0,3.0,4.0,Terraced Duplexes,Lekki,Lagos,28000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Utako,Abuja,75000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ibadan,Oyo,40000000.0
+3.0,3.0,4.0,2.0,Semi Detached Bungalow,Ajah,Lagos,14000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,16000000.0
+3.0,4.0,4.0,8.0,Detached Bungalow,Ibeju Lekki,Lagos,21000000.0
+6.0,7.0,8.0,4.0,Detached Duplex,Life Camp,Abuja,190000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ibeju Lekki,Lagos,18000000.0
+3.0,4.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,65000000.0
+5.0,5.0,7.0,1.0,Detached Duplex,Katampe,Abuja,750000000.0
+4.0,7.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Ikeja,Lagos,150000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gudu,Abuja,70000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Owerri Municipal,Imo,13000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Port Harcourt,Rivers,120000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,1000000000.0
+4.0,5.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,315000000.0
+1.0,5.0,2.0,4.0,Detached Bungalow,Ikeja,Lagos,55000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Agege,Lagos,37000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,122000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,57000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,30000000.0
+4.0,4.0,4.0,2.0,Block of Flats,Victoria Island (VI),Lagos,250000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Jabi,Abuja,75000000.0
+6.0,6.0,7.0,4.0,Terraced Duplexes,Katampe,Abuja,90000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Apo,Abuja,35000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,125000000.0
+4.0,5.0,5.0,3.0,Detached Bungalow,Port Harcourt,Rivers,39000000.0
+1.0,7.0,7.0,1.0,Terraced Bungalow,Alimosho,Lagos,80000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,1200000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Lekki,Lagos,260000000.0
+5.0,7.0,8.0,5.0,Detached Duplex,Ajah,Lagos,200000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Lekki,Lagos,140000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,110000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Katampe,Abuja,1800000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Life Camp,Abuja,29900000.0
+3.0,2.0,3.0,9.0,Detached Bungalow,Imota,Lagos,8000000.0
+7.0,7.0,7.0,4.0,Detached Duplex,Ogudu,Lagos,95000000.0
+4.0,4.0,5.0,1.0,Detached Bungalow,Ikwerre,Rivers,20000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,165000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Yaba,Lagos,55000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Isolo,Lagos,78000000.0
+3.0,3.0,3.0,8.0,Block of Flats,Maryland,Lagos,85000000.0
+4.0,4.0,4.0,3.0,Detached Duplex,Ajah,Lagos,85000000.0
+3.0,5.0,4.0,4.0,Detached Duplex,Ikeja,Lagos,115000000.0
+5.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,400000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Mbora (Nbora),Abuja,50000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Life Camp,Abuja,35000000.0
+5.0,5.0,5.0,6.0,Terraced Duplexes,Jabi,Abuja,50000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ajah,Lagos,67000000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,650000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Agege,Lagos,28000000.0
+4.0,4.0,5.0,5.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,40000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,90000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Idu Industrial,Abuja,45000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Life Camp,Abuja,23000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Asaba,Delta,120000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,22000000.0
+6.0,8.0,8.0,4.0,Detached Duplex,Ikeja,Lagos,550000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,40000000.0
+3.0,3.0,4.0,3.0,Detached Duplex,Lekki,Lagos,110000000.0
+6.0,6.0,7.0,3.0,Terraced Duplexes,Guzape District,Abuja,130000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,32000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Oshodi,Lagos,65000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,100000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Ikorodu,Lagos,16500000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,30000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Ayobo,Lagos,15000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Amuwo Odofin,Lagos,200000000.0
+4.0,4.0,5.0,8.0,Detached Bungalow,Alimosho,Lagos,37000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,255000000.0
+4.0,4.0,5.0,6.0,Detached Bungalow,Ikorodu,Lagos,17000000.0
+5.0,5.0,6.0,2.0,Terraced Duplexes,Ogudu,Lagos,90000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Alimosho,Lagos,18000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Katampe,Abuja,250000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Magodo,Lagos,140000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Isheri North,Lagos,69000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ojodu,Lagos,80000000.0
+4.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,65000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Magodo,Lagos,165000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Ajah,Lagos,75000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lugbe District,Abuja,32000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,51000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Owerri Municipal,Imo,45000000.0
+8.0,9.0,9.0,4.0,Detached Duplex,Ikoyi,Lagos,650000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Ojodu,Lagos,65000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Galadimawa,Abuja,35000000.0
+8.0,9.0,9.0,1.0,Detached Duplex,Guzape District,Abuja,650000000.0
+4.0,4.0,5.0,2.0,Detached Duplex,Lekki,Lagos,160000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Surulere,Lagos,165000000.0
+6.0,8.0,6.0,3.0,Detached Duplex,Isheri North,Lagos,140000000.0
+2.0,2.0,3.0,1.0,Terraced Duplexes,Ajah,Lagos,36000000.0
+2.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+5.0,7.0,8.0,4.0,Detached Duplex,Lekki,Lagos,85000000.0
+3.0,3.0,3.0,2.0,Semi Detached Bungalow,Apapa,Lagos,20000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Guzape District,Abuja,250000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,155000000.0
+4.0,5.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,44000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Lekki,Lagos,79000000.0
+5.0,6.0,6.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,450000000.0
+2.0,4.0,4.0,4.0,Detached Bungalow,Yaba,Lagos,35000000.0
+6.0,8.0,8.0,6.0,Detached Duplex,Lekki,Lagos,290000000.0
+3.0,2.0,3.0,2.0,Semi Detached Bungalow,Port Harcourt,Rivers,27000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Gwarinpa,Abuja,170000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Kado,Abuja,45000000.0
+4.0,4.0,5.0,6.0,Detached Bungalow,Lokogoma District,Abuja,40000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Apo,Abuja,16500000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Gbagada,Lagos,45000000.0
+7.0,8.0,8.0,4.0,Detached Duplex,Magodo,Lagos,200000000.0
+2.0,3.0,3.0,2.0,Block of Flats,Surulere,Lagos,30000000.0
+3.0,4.0,4.0,6.0,Semi Detached Bungalow,Dakwo,Abuja,28000000.0
+3.0,2.0,2.0,4.0,Detached Bungalow,Ibadan,Oyo,40000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,152000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Surulere,Lagos,120000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,13000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Gwarinpa,Abuja,30000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ibadan,Oyo,65000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,120000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,38000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,75000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maitama District,Abuja,850000000.0
+6.0,6.0,8.0,6.0,Detached Duplex,Isheri North,Lagos,155000000.0
+5.0,6.0,5.0,4.0,Detached Duplex,Lekki,Lagos,195000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ajah,Lagos,130000000.0
+6.0,8.0,9.0,2.0,Detached Duplex,Garki,Abuja,150000000.0
+5.0,6.0,6.0,4.0,Terraced Duplexes,Jabi,Abuja,125000000.0
+6.0,5.0,6.0,1.0,Detached Duplex,Lekki,Lagos,350000000.0
+2.0,2.0,3.0,8.0,Block of Flats,Port Harcourt,Rivers,28000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,76000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,75000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,130000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ikeja,Lagos,120000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Guzape District,Abuja,150000000.0
+7.0,9.0,9.0,7.0,Detached Duplex,Ikoyi,Lagos,1800000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,57000000.0
+5.0,4.0,4.0,4.0,Terraced Duplexes,Ikeja,Lagos,46000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Victoria Island (VI),Lagos,280000000.0
+4.0,6.0,6.0,5.0,Detached Duplex,Katampe,Abuja,210000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lugbe District,Abuja,50000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Surulere,Lagos,35000000.0
+2.0,2.0,2.0,3.0,Detached Bungalow,Ifako-Ijaiye,Lagos,2500000.0
+3.0,3.0,3.0,6.0,Detached Bungalow,Ifako-Ijaiye,Lagos,5000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Ikeja,Lagos,180000000.0
+1.0,4.0,4.0,4.0,Detached Bungalow,Surulere,Lagos,14000000.0
+1.0,1.0,1.0,1.0,Block of Flats,Ibadan,Oyo,60000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,140000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,65000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,650000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,4.0,6.0,2.0,Terraced Duplexes,Lekki,Lagos,140000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,360000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,58000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Gbagada,Lagos,150000000.0
+2.0,2.0,2.0,1.0,Detached Bungalow,Asaba,Delta,50000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Gwarinpa,Abuja,65000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Maitama District,Abuja,98364749.0
+6.0,6.0,7.0,6.0,Detached Duplex,Lekki,Lagos,90000000.0
+3.0,4.0,4.0,5.0,Semi Detached Bungalow,Lugbe District,Abuja,27000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Ikoyi,Lagos,360000000.0
+2.0,2.0,3.0,5.0,Block of Flats,Life Camp,Abuja,16000000.0
+7.0,7.0,7.0,8.0,Detached Duplex,Lekki,Lagos,400000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Agege,Lagos,40000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,17000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Ikeja,Lagos,130000000.0
+5.0,5.0,5.0,1.0,Semi Detached Duplex,Ifo,Ogun,55000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Isheri North,Lagos,170000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,52000000.0
+7.0,7.0,8.0,1.0,Detached Duplex,Ikeja,Lagos,700000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,400000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Ajah,Lagos,140000000.0
+5.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,150000000.0
+4.0,4.0,5.0,1.0,Block of Flats,Lekki,Lagos,70000000.0
+4.0,5.0,5.0,5.0,Terraced Duplexes,Jahi,Abuja,65000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Magodo,Lagos,110000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gwarinpa,Abuja,65000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,80000000.0
+4.0,4.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,33000000.0
+8.0,9.0,9.0,4.0,Detached Duplex,Maitama District,Abuja,1500000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Owerri Municipal,Imo,26000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ikeja,Lagos,28000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,92000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lekki,Lagos,70000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,60000000.0
+3.0,5.0,5.0,1.0,Block of Flats,Magodo,Lagos,90000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,95000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Yaba,Lagos,100000000.0
+3.0,5.0,4.0,4.0,Terraced Bungalow,Simawa,Ogun,16000000.0
+5.0,5.0,5.0,4.0,Block of Flats,Ibadan,Oyo,8000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Agege,Lagos,110000000.0
+3.0,3.0,3.0,4.0,Detached Duplex,Ipaja,Lagos,30000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ojo,Lagos,20000000.0
+6.0,6.0,6.0,2.0,Detached Duplex,Port Harcourt,Rivers,130000000.0
+5.0,9.0,1.0,1.0,Detached Duplex,Galadimawa,Abuja,200000000.0
+3.0,3.0,3.0,1.0,Block of Flats,Umuahia,Abia,65000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,27500000.0
+4.0,4.0,5.0,9.0,Detached Duplex,Port Harcourt,Rivers,150000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,300000000.0
+3.0,2.0,2.0,2.0,Semi Detached Bungalow,Ikorodu,Lagos,8000000.0
+5.0,5.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,68000000.0
+5.0,7.0,7.0,4.0,Semi Detached Duplex,Lekki,Lagos,230000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Maitama District,Abuja,200000000.0
+4.0,5.0,4.0,3.0,Semi Detached Duplex,Isheri North,Ogun,50000000.0
+3.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,34000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Victoria Island (VI),Lagos,80000000.0
+2.0,3.0,3.0,5.0,Block of Flats,Ibadan,Oyo,16000000.0
+8.0,6.0,7.0,6.0,Detached Duplex,Yaba,Lagos,75000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,150000000.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Ibafo,Ogun,10000000.0
+4.0,5.0,5.0,4.0,Semi Detached Bungalow,Ajah,Lagos,37000000.0
+3.0,4.0,4.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,32000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ajah,Lagos,90000000.0
+5.0,1.0,9.0,4.0,Detached Duplex,Ikorodu,Lagos,40000000.0
+6.0,8.0,8.0,7.0,Detached Duplex,Asokoro District,Abuja,600000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Victoria Island (VI),Lagos,235000000.0
+7.0,7.0,8.0,3.0,Terraced Duplexes,Wuye,Abuja,75000000.0
+2.0,2.0,3.0,6.0,Detached Bungalow,Apo,Abuja,45000000.0
+6.0,8.0,8.0,4.0,Detached Duplex,Maitama District,Abuja,800000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ifako-Ijaiye,Lagos,27000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Jabi,Abuja,190000000.0
+3.0,3.0,3.0,4.0,Terraced Duplexes,Asokoro District,Abuja,400000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,63000000.0
+5.0,6.0,6.0,6.0,Detached Bungalow,Galadimawa,Abuja,45000000.0
+5.0,4.0,4.0,4.0,Detached Duplex,Gwarinpa,Abuja,100000000.0
+9.0,5.0,5.0,8.0,Detached Bungalow,Sango Ota,Ogun,9000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Ikeja,Lagos,125000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ifo,Ogun,45000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Lokogoma District,Abuja,15000000.0
+4.0,4.0,5.0,1.0,Terraced Duplexes,Guzape District,Abuja,55000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,40000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Enugu,Enugu,35000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,220000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ajah,Lagos,77000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,85000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gaduwa,Abuja,85000000.0
+6.0,4.0,5.0,4.0,Detached Bungalow,Oluyole,Oyo,29000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,270000000.0
+3.0,5.0,5.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,33000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Ikeja,Lagos,140000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Lekki,Lagos,40000000.0
+4.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,69000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,175000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Lekki,Lagos,50000000.0
+4.0,5.0,5.0,6.0,Terraced Duplexes,Lekki,Lagos,60000000.0
+2.0,2.0,2.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,22500000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ikeja,Lagos,200000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Magodo,Lagos,200000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,52000000.0
+6.0,6.0,5.0,2.0,Detached Duplex,Isheri North,Lagos,155000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Isheri North,Ogun,70000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,245000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Gudu,Abuja,65000000.0
+3.0,3.0,4.0,4.0,Semi Detached Duplex,Magodo,Lagos,80000000.0
+3.0,4.0,4.0,5.0,Detached Bungalow,Ajah,Lagos,35000000.0
+2.0,2.0,3.0,3.0,Semi Detached Bungalow,Ibadan,Oyo,11000000.0
+5.0,5.0,6.0,4.0,Block of Flats,Oredo,Edo,20000000.0
+4.0,4.0,5.0,7.0,Terraced Duplexes,Apo,Abuja,85000000.0
+3.0,2.0,3.0,2.0,Detached Bungalow,Mowe Town,Ogun,16000000.0
+6.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,118000000.0
+8.0,8.0,9.0,4.0,Detached Duplex,Guzape District,Abuja,300000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Jahi,Abuja,150000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ipaja,Lagos,8000000.0
+2.0,3.0,3.0,3.0,Semi Detached Duplex,Lokogoma District,Abuja,30000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Agege,Lagos,3800000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ibadan,Oyo,12000000.0
+3.0,4.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,43000000.0
+3.0,3.0,4.0,6.0,Terraced Duplexes,Lekki,Lagos,26000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Guzape District,Abuja,70000000.0
+3.0,3.0,3.0,6.0,Block of Flats,Ibafo,Ogun,20000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Asokoro District,Abuja,350000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Lekki,Lagos,60000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Isheri North,Lagos,48000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,11500000.0
+4.0,4.0,4.0,2.0,Detached Duplex,Surulere,Lagos,65000000.0
+2.0,2.0,3.0,4.0,Terraced Bungalow,Lekki,Lagos,26000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Abeokuta South,Ogun,30000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Oredo,Edo,20000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,70000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Ibafo,Ogun,14000000.0
+4.0,4.0,5.0,9.0,Detached Bungalow,Port Harcourt,Rivers,16000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Port Harcourt,Rivers,55000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Lokogoma District,Abuja,38000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Ajah,Lagos,55000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Ajah,Lagos,47000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Isheri,Lagos,75000000.0
+5.0,5.0,7.0,6.0,Detached Duplex,Ibeju Lekki,Lagos,65000000.0
+1.0,1.0,1.0,1.0,Detached Duplex,Victoria Island (VI),Lagos,800000000.0
+9.0,1.0,1.0,4.0,Detached Duplex,Guzape District,Abuja,400000000.0
+7.0,1.0,8.0,1.0,Detached Duplex,Asokoro District,Abuja,450000000.0
+3.0,4.0,4.0,4.0,Block of Flats,Jahi,Abuja,35000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ibadan,Oyo,35000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Lekki,Lagos,42500000.0
+3.0,2.0,2.0,2.0,Semi Detached Bungalow,Ikorodu,Lagos,16000000.0
+5.0,7.0,8.0,1.0,Detached Duplex,Lekki,Lagos,190000000.0
+3.0,5.0,5.0,4.0,Terraced Duplexes,Agege,Lagos,30000000.0
+5.0,5.0,5.0,1.0,Detached Duplex,Oredo,Edo,45000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ifako-Ijaiye,Lagos,40000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,18000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Life Camp,Abuja,25000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Katampe,Abuja,230000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Wuye,Abuja,55000000.0
+4.0,4.0,6.0,4.0,Detached Bungalow,Kubwa,Abuja,18000000.0
+4.0,5.0,5.0,2.0,Terraced Duplexes,Gwarinpa,Abuja,50000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Isheri North,Ogun,55000000.0
+3.0,3.0,3.0,3.0,Detached Bungalow,Ajah,Lagos,28000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Akinyele,Oyo,25000000.0
+5.0,5.0,7.0,5.0,Detached Duplex,Lekki,Lagos,260000000.0
+2.0,5.0,2.0,1.0,Semi Detached Bungalow,Karu,Abuja,20000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Apo,Abuja,100000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Wuye,Abuja,70000000.0
+1.0,1.0,1.0,8.0,Block of Flats,Ikeja,Lagos,40000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Ikeja,Lagos,105000000.0
+9.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,450000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,77000000.0
+7.0,7.0,6.0,1.0,Detached Duplex,Asokoro District,Abuja,450000000.0
+4.0,5.0,6.0,3.0,Terraced Duplexes,Lekki,Lagos,50000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Lekki,Lagos,200000000.0
+5.0,5.0,5.0,2.0,Detached Duplex,Owerri Municipal,Imo,65000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,300000000.0
+3.0,3.0,3.0,3.0,Detached Bungalow,Kurudu,Abuja,30000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Karu,Abuja,20000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,350000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,30000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ikeja,Lagos,130000000.0
+7.0,7.0,8.0,8.0,Detached Duplex,Asokoro District,Abuja,400000000.0
+4.0,4.0,4.0,2.0,Block of Flats,Enugu,Enugu,32000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,63000000.0
+6.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,220000000.0
+4.0,5.0,5.0,3.0,Semi Detached Duplex,Lekki,Lagos,76000000.0
+2.0,2.0,3.0,8.0,Block of Flats,Ajah,Lagos,80000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,128000000.0
+6.0,6.0,7.0,2.0,Detached Duplex,Lekki,Lagos,450000000.0
+3.0,4.0,4.0,2.0,Terraced Duplexes,Kuje,Abuja,13000000.0
+2.0,2.0,3.0,4.0,Block of Flats,Jahi,Abuja,300000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,85000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Apo,Abuja,50000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ikeja,Lagos,110000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Ilupeju,Lagos,240000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,65000000.0
+3.0,3.0,3.0,4.0,Semi Detached Duplex,Surulere,Lagos,85000000.0
+4.0,5.0,6.0,6.0,Detached Duplex,Kaura,Abuja,100000000.0
+4.0,4.0,5.0,6.0,Terraced Duplexes,Magodo,Lagos,60000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Life Camp,Abuja,35000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,95000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Isheri North,Ogun,73000000.0
+3.0,5.0,5.0,4.0,Terraced Duplexes,Asokoro District,Abuja,600000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Port Harcourt,Rivers,40000000.0
+5.0,5.0,6.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,30000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Isolo,Lagos,110000000.0
+6.0,6.0,6.0,5.0,Detached Bungalow,Owerri Municipal,Imo,45000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Ibadan,Oyo,70000000.0
+1.0,1.0,1.0,4.0,Detached Duplex,Ibadan,Oyo,100000000.0
+1.0,9.0,9.0,2.0,Block of Flats,Owerri Municipal,Imo,40000000.0
+7.0,6.0,7.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,380000000.0
+7.0,7.0,9.0,6.0,Detached Duplex,Port Harcourt,Rivers,200000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,42000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Amuwo Odofin,Lagos,95000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Ajah,Lagos,47000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Ibadan,Oyo,120000000.0
+2.0,2.0,2.0,2.0,Detached Bungalow,Ibeju Lekki,Lagos,13700000.0
+5.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,50000000.0
+5.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,100000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ikeja,Lagos,195000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Owerri Municipal,Imo,180000000.0
+4.0,5.0,6.0,6.0,Detached Bungalow,Port Harcourt,Rivers,55000000.0
+3.0,3.0,4.0,2.0,Detached Duplex,Ikoyi,Lagos,210000000.0
+3.0,3.0,4.0,5.0,Detached Duplex,Ogudu,Lagos,75000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ifo,Ogun,12500000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ikeja,Lagos,240000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Isheri North,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,32000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,26000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,130000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Jahi,Abuja,30000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Magodo,Lagos,175000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,42000000.0
+3.0,4.0,4.0,1.0,Detached Bungalow,Mbora (Nbora),Abuja,42000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Guzape District,Abuja,55000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikotun,Lagos,23000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Ajah,Lagos,34000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Wuye,Abuja,90000000.0
+6.0,7.0,7.0,1.0,Detached Duplex,Kado,Abuja,400000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Ajah,Lagos,55000000.0
+2.0,2.0,3.0,4.0,Detached Bungalow,Magboro,Ogun,8000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,235000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Kaduna North,Kaduna,15000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Agege,Lagos,65000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,300000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maitama District,Abuja,370000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikeja,Lagos,105000000.0
+8.0,5.0,5.0,5.0,Detached Duplex,Port Harcourt,Rivers,85000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,96000000.0
+2.0,5.0,5.0,4.0,Semi Detached Bungalow,Idu Industrial,Abuja,10000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Wuse 2,Abuja,90000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Magodo,Lagos,140000000.0
+5.0,5.0,7.0,6.0,Detached Duplex,Ikoyi,Lagos,280000000.0
+4.0,4.0,4.0,3.0,Detached Duplex,Ikeja,Lagos,72000000.0
+6.0,6.0,8.0,4.0,Detached Duplex,Lekki,Lagos,210000000.0
+4.0,4.0,4.0,5.0,Detached Bungalow,Abeokuta South,Ogun,15000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,95000000.0
+6.0,6.0,9.0,8.0,Detached Duplex,Ajah,Lagos,150000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,116000000.0
+2.0,2.0,3.0,4.0,Semi Detached Bungalow,Mowe Ofada,Ogun,7499000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Ajah,Lagos,62000000.0
+2.0,3.0,3.0,4.0,Block of Flats,Utako,Abuja,40000000.0
+5.0,4.0,5.0,5.0,Semi Detached Duplex,Lokogoma District,Abuja,34000000.0
+4.0,5.0,5.0,1.0,Detached Bungalow,Enugu,Enugu,26000000.0
+6.0,7.0,7.0,2.0,Detached Duplex,Ikoyi,Lagos,950000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ikorodu,Lagos,8000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ogudu,Lagos,125000000.0
+3.0,2.0,3.0,1.0,Detached Bungalow,Ado-Odo/Ota,Ogun,3500000.0
+8.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,600000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Enugu,Enugu,50000000.0
+4.0,4.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,76000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Port Harcourt,Rivers,75000000.0
+7.0,8.0,8.0,5.0,Semi Detached Duplex,Wuse 2,Abuja,199900000.0
+2.0,2.0,2.0,2.0,Terraced Duplexes,Lekki,Lagos,58000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Wuse,Abuja,100000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ajah,Lagos,78000000.0
+4.0,5.0,5.0,8.0,Detached Duplex,Ikeja,Lagos,250000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Gwarinpa,Abuja,70000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Lekki,Lagos,350000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,448000000.0
+1.0,1.0,1.0,4.0,Detached Duplex,Kubwa,Abuja,43000000.0
+3.0,3.0,3.0,5.0,Terraced Bungalow,Ajah,Lagos,40000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Ajah,Lagos,200000000.0
+4.0,4.0,5.0,2.0,Semi Detached Duplex,Lekki,Lagos,85000000.0
+6.0,9.0,9.0,8.0,Detached Duplex,Maitama District,Abuja,800000000.0
+1.0,1.0,1.0,2.0,Detached Duplex,Agege,Lagos,140000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Ibadan,Oyo,70000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Ikoyi,Lagos,550000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Gbagada,Lagos,72000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Lekki,Lagos,360000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Asokoro District,Abuja,250000000.0
+5.0,5.0,5.0,5.0,Detached Duplex,Lekki,Lagos,350000000.0
+5.0,6.0,7.0,4.0,Semi Detached Duplex,Wuse,Abuja,185000000.0
+9.0,9.0,1.0,8.0,Detached Duplex,Lekki,Lagos,350000000.0
+7.0,7.0,8.0,5.0,Detached Duplex,Lekki,Lagos,160000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Lekki,Lagos,260000000.0
+2.0,2.0,3.0,4.0,Block of Flats,Ikorodu,Lagos,35000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Victoria Island (VI),Lagos,110000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Kurudu,Abuja,150000000.0
+1.0,5.0,2.0,4.0,Block of Flats,Enugu,Enugu,150000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Lekki,Lagos,65000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Victoria Island (VI),Lagos,170000000.0
+3.0,5.0,3.0,4.0,Block of Flats,Mowe Ofada,Ogun,11500000.0
+7.0,7.0,8.0,8.0,Detached Duplex,Ikoyi,Lagos,1800000000.0
+1.0,3.0,3.0,2.0,Block of Flats,Ajah,Lagos,130000000.0
+2.0,5.0,5.0,4.0,Detached Bungalow,Wumba,Abuja,35000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lokogoma District,Abuja,29000000.0
+4.0,4.0,5.0,8.0,Detached Bungalow,Apo,Abuja,38000000.0
+6.0,6.0,6.0,4.0,Detached Duplex,Ojodu,Lagos,35000000.0
+5.0,2.0,6.0,6.0,Detached Duplex,Ikoyi,Lagos,1300000000.0
+1.0,1.0,1.0,1.0,Semi Detached Bungalow,Abeokuta North,Ogun,55000000.0
+5.0,4.0,5.0,6.0,Detached Bungalow,Ifo,Ogun,10000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Ajah,Lagos,100000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Gwarinpa,Abuja,75000000.0
+9.0,1.0,1.0,4.0,Detached Duplex,Lekki,Lagos,350000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,70000000.0
+3.0,3.0,3.0,4.0,Terraced Duplexes,Lekki,Lagos,34000000.0
+2.0,3.0,3.0,2.0,Detached Bungalow,Ikorodu,Lagos,2700000.0
+3.0,3.0,4.0,3.0,Block of Flats,Lekki,Lagos,21000000.0
+5.0,6.0,6.0,5.0,Detached Bungalow,Ikorodu,Lagos,15000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,88000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Kaura,Abuja,150000000.0
+4.0,3.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,50000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Ikeja,Lagos,80000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Ajah,Lagos,90000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Yaba,Lagos,45000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Lekki,Lagos,65000000.0
+7.0,9.0,9.0,7.0,Detached Duplex,Wuse 2,Abuja,550000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Ikoyi,Lagos,275000000.0
+5.0,4.0,6.0,8.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Karsana,Abuja,35500000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,150000000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Karmo,Abuja,27000000.0
+4.0,5.0,5.0,1.0,Terraced Duplexes,Gwarinpa,Abuja,60000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ikeja,Lagos,85000000.0
+9.0,9.0,1.0,4.0,Detached Duplex,Ikoyi,Lagos,1600000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Jahi,Abuja,400000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Gbagada,Lagos,65000000.0
+5.0,5.0,5.0,5.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,34000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Kaura,Abuja,95000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Lugbe District,Abuja,48000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Maitama District,Abuja,165666666.0
+3.0,6.0,6.0,4.0,Block of Flats,Oredo,Edo,18000000.0
+3.0,5.0,4.0,4.0,Semi Detached Duplex,Kubwa,Abuja,43000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Kaura,Abuja,145000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,10500000.0
+4.0,4.0,5.0,5.0,Detached Bungalow,Ikorodu,Lagos,14000000.0
+4.0,5.0,6.0,4.0,Detached Duplex,Gaduwa,Abuja,150000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,150000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,20000000.0
+8.0,8.0,9.0,1.0,Detached Duplex,Ikeja,Lagos,100000000.0
+4.0,5.0,5.0,3.0,Terraced Duplexes,Gaduwa,Abuja,28000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Gwarinpa,Abuja,130000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Magodo,Lagos,95000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Ibadan,Oyo,40000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,22000000.0
+4.0,4.0,4.0,3.0,Semi Detached Duplex,Galadimawa,Abuja,40000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,82000000.0
+5.0,5.0,4.0,4.0,Detached Duplex,Lekki,Lagos,130000000.0
+2.0,2.0,3.0,4.0,Detached Duplex,Ajah,Lagos,30000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,45000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Port Harcourt,Rivers,75000000.0
+3.0,3.0,3.0,5.0,Block of Flats,Ikeja,Lagos,43000000.0
+7.0,7.0,8.0,4.0,Detached Duplex,Port Harcourt,Rivers,105000000.0
+4.0,4.0,4.0,1.0,Detached Bungalow,Isolo,Lagos,22000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Port Harcourt,Rivers,52000000.0
+4.0,4.0,6.0,4.0,Detached Duplex,Lekki,Lagos,80000000.0
+5.0,5.0,5.0,1.0,Terraced Bungalow,Oredo,Edo,22000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Gaduwa,Abuja,35000000.0
+5.0,6.0,5.0,5.0,Detached Duplex,Port Harcourt,Rivers,55000000.0
+7.0,5.0,6.0,4.0,Detached Bungalow,Ifo,Ogun,20000000.0
+9.0,1.0,1.0,5.0,Detached Duplex,Maitama District,Abuja,800000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Life Camp,Abuja,150000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Oredo,Edo,35000000.0
+7.0,7.0,8.0,6.0,Detached Duplex,Amuwo Odofin,Lagos,55000000.0
+4.0,6.0,6.0,8.0,Semi Detached Duplex,Lekki,Lagos,85000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ikoyi,Lagos,950000000.0
+6.0,5.0,6.0,4.0,Detached Duplex,Isheri North,Lagos,155000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,40000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Owerri Municipal,Imo,25000000.0
+3.0,3.0,5.0,4.0,Semi Detached Bungalow,Port Harcourt,Rivers,15500000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Mowe Ofada,Ogun,7000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Life Camp,Abuja,176020999.0
+4.0,4.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,18000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Kado,Abuja,200000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Lekki,Lagos,125000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ajah,Lagos,67000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Ajah,Lagos,45000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikeja,Lagos,155000000.0
+5.0,5.0,6.0,5.0,Terraced Duplexes,Apo,Abuja,70000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Gwarinpa,Abuja,180000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Lekki,Lagos,110000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,140000000.0
+5.0,5.0,7.0,4.0,Detached Duplex,Owerri Municipal,Imo,75000000.0
+1.0,1.0,1.0,7.0,Block of Flats,Owerri Municipal,Imo,35000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,350000000.0
+3.0,3.0,3.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,30000000.0
+3.0,3.0,5.0,4.0,Detached Duplex,Ogudu,Lagos,47000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ajah,Lagos,155000000.0
+7.0,8.0,8.0,8.0,Block of Flats,Ibadan,Oyo,17000000.0
+4.0,6.0,6.0,3.0,Semi Detached Duplex,Ajah,Lagos,60000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Mabushi,Abuja,80000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Lekki,Lagos,28000000.0
+5.0,5.0,5.0,4.0,Semi Detached Bungalow,Lokogoma District,Abuja,40000000.0
+3.0,2.0,2.0,4.0,Detached Bungalow,Ibadan,Oyo,6000000.0
+5.0,5.0,5.0,8.0,Detached Duplex,Port Harcourt,Rivers,140000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ojodu,Lagos,23000000.0
+5.0,8.0,7.0,6.0,Detached Duplex,Garki,Abuja,120000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Isolo,Lagos,35000000.0
+5.0,6.0,6.0,1.0,Detached Duplex,Port Harcourt,Rivers,250000000.0
+2.0,4.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,9000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Ifako-Ijaiye,Lagos,35000000.0
+8.0,8.0,9.0,8.0,Detached Duplex,Ikoyi,Lagos,1400000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Lekki,Lagos,132000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,45000000.0
+5.0,6.0,6.0,9.0,Detached Duplex,Magodo,Lagos,225000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,38000000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Magodo,Lagos,68000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Victoria Island (VI),Lagos,300000000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Ibeju Lekki,Lagos,44000000.0
+6.0,6.0,7.0,3.0,Terraced Duplexes,Maitama District,Abuja,220000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ajah,Lagos,62000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Victoria Island (VI),Lagos,143000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Ajah,Lagos,45000000.0
+4.0,4.0,5.0,3.0,Detached Bungalow,Port Harcourt,Rivers,50000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,800000000.0
+4.0,4.0,4.0,5.0,Detached Bungalow,Lugbe District,Abuja,35000000.0
+3.0,5.0,4.0,4.0,Detached Bungalow,Ipaja,Lagos,9000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Karsana,Abuja,40000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Magboro,Ogun,16320000.0
+3.0,3.0,4.0,3.0,Detached Bungalow,Ajah,Lagos,38000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,90000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ikotun,Lagos,270000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Ibadan,Oyo,200000000.0
+2.0,2.0,3.0,4.0,Semi Detached Bungalow,Ajah,Lagos,18000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ikeja,Lagos,75000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Galadimawa,Abuja,55000000.0
+5.0,5.0,6.0,4.0,Terraced Duplexes,Lekki,Lagos,50000000.0
+3.0,3.0,3.0,3.0,Detached Duplex,Ifako-Ijaiye,Lagos,27500000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Abeokuta South,Ogun,60000000.0
+4.0,4.0,5.0,5.0,Terraced Duplexes,Life Camp,Abuja,29000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,150000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Lekki,Lagos,200000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,90000000.0
+8.0,8.0,9.0,6.0,Detached Duplex,Karsana,Abuja,200000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ibadan,Oyo,155000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Idu Industrial,Abuja,40000000.0
+3.0,4.0,4.0,3.0,Detached Duplex,Jahi,Abuja,38000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Ikoyi,Lagos,250000000.0
+4.0,4.0,5.0,5.0,Detached Bungalow,Port Harcourt,Rivers,18000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,108000000.0
+4.0,6.0,6.0,6.0,Semi Detached Duplex,Lekki,Lagos,40000000.0
+6.0,5.0,7.0,1.0,Detached Duplex,Lekki,Lagos,360000000.0
+3.0,5.0,5.0,4.0,Semi Detached Bungalow,Surulere,Lagos,50000000.0
+3.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,27000000.0
+5.0,6.0,5.0,4.0,Detached Duplex,Ikeja,Lagos,250000000.0
+7.0,7.0,7.0,4.0,Detached Duplex,Asokoro District,Abuja,700000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ogudu,Lagos,160000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Apo,Abuja,115000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Victoria Island (VI),Lagos,155000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Maitama District,Abuja,240000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Ibadan,Oyo,40000000.0
+3.0,3.0,4.0,4.0,Block of Flats,Ikeja,Lagos,125000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Katampe,Abuja,62500000.0
+5.0,7.0,6.0,7.0,Detached Duplex,Kado,Abuja,330000000.0
+4.0,6.0,6.0,6.0,Detached Duplex,Enugu,Enugu,50000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Surulere,Lagos,60000000.0
+4.0,5.0,4.0,6.0,Detached Duplex,Ikeja,Lagos,150000000.0
+5.0,5.0,8.0,4.0,Detached Duplex,Lekki,Lagos,450000000.0
+5.0,6.0,7.0,5.0,Semi Detached Duplex,Ajah,Lagos,70000000.0
+4.0,4.0,5.0,5.0,Terraced Duplexes,Jabi,Abuja,60000000.0
+1.0,5.0,5.0,4.0,Detached Bungalow,Yaba,Lagos,100000000.0
+1.0,5.0,5.0,5.0,Block of Flats,Ikorodu,Lagos,15000000.0
+3.0,4.0,4.0,4.0,Detached Bungalow,Lokogoma District,Abuja,55000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Lekki,Lagos,320000000.0
+2.0,5.0,3.0,4.0,Terraced Duplexes,Ajah,Lagos,47000000.0
+4.0,3.0,4.0,1.0,Detached Duplex,Victoria Island (VI),Lagos,400000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikorodu,Lagos,34999999.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,18000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Magodo,Lagos,185000000.0
+7.0,8.0,8.0,4.0,Detached Duplex,Ibadan,Oyo,50000000.0
+1.0,5.0,8.0,2.0,Detached Duplex,Gbagada,Lagos,250000000.0
+5.0,5.0,6.0,4.0,Semi Detached Bungalow,Lekki,Lagos,130000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,15000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Surulere,Lagos,60000000.0
+8.0,1.0,1.0,1.0,Detached Duplex,Asokoro District,Abuja,550000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Victoria Island (VI),Lagos,650000000.0
+4.0,5.0,5.0,4.0,Semi Detached Bungalow,Lekki,Lagos,65000000.0
+6.0,6.0,9.0,1.0,Detached Duplex,Wuye,Abuja,150000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Asokoro District,Abuja,500000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Kubwa,Abuja,31000000.0
+2.0,2.0,3.0,2.0,Terraced Bungalow,Lugbe District,Abuja,18900000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Maryland,Lagos,135000000.0
+4.0,9.0,9.0,4.0,Detached Duplex,Ikoyi,Lagos,800000000.0
+6.0,6.0,7.0,3.0,Detached Duplex,Lekki,Lagos,75000000.0
+4.0,6.0,7.0,5.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+3.0,3.0,4.0,5.0,Detached Bungalow,Imota,Lagos,4500000.0
+5.0,5.0,6.0,6.0,Terraced Duplexes,Life Camp,Abuja,65000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ifako-Ijaiye,Lagos,19000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,68000000.0
+5.0,5.0,6.0,2.0,Detached Duplex,Lekki,Lagos,240000000.0
+5.0,4.0,6.0,7.0,Detached Duplex,Lekki,Lagos,125000000.0
+2.0,2.0,2.0,4.0,Block of Flats,Enugu,Enugu,40000000.0
+2.0,3.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,23000000.0
+5.0,5.0,6.0,7.0,Detached Duplex,Ajah,Lagos,165000000.0
+2.0,6.0,6.0,6.0,Detached Bungalow,Ikorodu,Lagos,8500000.0
+3.0,3.0,4.0,8.0,Detached Bungalow,Ajah,Lagos,25000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,238000000.0
+5.0,5.0,6.0,3.0,Semi Detached Duplex,Ikoyi,Lagos,500000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Magboro,Ogun,35000000.0
+4.0,5.0,6.0,5.0,Detached Duplex,Lekki,Lagos,83000000.0
+4.0,4.0,5.0,1.0,Terraced Duplexes,Isheri North,Lagos,180000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,34000000.0
+3.0,4.0,4.0,4.0,Terraced Duplexes,Kubwa,Abuja,35000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Lekki,Lagos,62000000.0
+1.0,1.0,1.0,8.0,Block of Flats,Owerri West,Imo,160000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Gwarinpa,Abuja,110000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Ajah,Lagos,55000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikorodu,Lagos,25000000.0
+5.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,55000000.0
+5.0,7.0,6.0,2.0,Terraced Duplexes,Mabushi,Abuja,155000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Maryland,Lagos,50000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Katampe,Abuja,1700000000.0
+2.0,2.0,3.0,3.0,Semi Detached Bungalow,Lekki,Lagos,26000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gwarinpa,Abuja,320000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Durumi,Abuja,135000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Port Harcourt,Rivers,100000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Durumi,Abuja,120000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Gwarinpa,Abuja,135000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Lekki,Lagos,88000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Lekki,Lagos,200000000.0
+3.0,3.0,4.0,3.0,Block of Flats,Lekki,Lagos,32500000.0
+3.0,3.0,4.0,2.0,Terraced Bungalow,Gwagwalada,Abuja,10500000.0
+4.0,4.0,5.0,5.0,Terraced Duplexes,Wuse 2,Abuja,200000000.0
+4.0,6.0,6.0,3.0,Detached Duplex,Lekki,Lagos,70000000.0
+1.0,2.0,2.0,5.0,Block of Flats,Ifo,Ogun,20000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ikotun,Lagos,30000000.0
+8.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,800000000.0
+1.0,5.0,2.0,1.0,Semi Detached Bungalow,Mowe Ofada,Ogun,6500000.0
+6.0,5.0,5.0,4.0,Detached Bungalow,Shomolu,Lagos,40000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Asokoro District,Abuja,650000000.0
+4.0,4.0,4.0,3.0,Semi Detached Duplex,Lekki,Lagos,65000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Galadimawa,Abuja,140000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Ajah,Lagos,120000000.0
+3.0,3.0,4.0,4.0,Detached Duplex,Ajah,Lagos,28000000.0
+5.0,5.0,7.0,7.0,Detached Duplex,Lekki,Lagos,185000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Victoria Island (VI),Lagos,140000000.0
+4.0,4.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+4.0,5.0,6.0,5.0,Terraced Duplexes,Lekki,Lagos,58000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Lekki,Lagos,45500000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Lekki,Lagos,170000000.0
+5.0,8.0,8.0,8.0,Detached Duplex,Ikoyi,Lagos,345000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Galadimawa,Abuja,29950000.0
+4.0,5.0,5.0,9.0,Detached Bungalow,Port Harcourt,Rivers,20000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Port Harcourt,Rivers,100000000.0
+3.0,3.0,4.0,3.0,Semi Detached Duplex,Apo,Abuja,75000000.0
+6.0,7.0,7.0,4.0,Detached Duplex,Lekki,Lagos,300000000.0
+3.0,3.0,4.0,6.0,Semi Detached Bungalow,Ajah,Lagos,26000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Lekki,Lagos,270000000.0
+4.0,4.0,5.0,3.0,Detached Duplex,Kaura,Abuja,120000000.0
+5.0,6.0,6.0,7.0,Detached Duplex,Ikoyi,Lagos,1100000000.0
+4.0,5.0,6.0,3.0,Semi Detached Duplex,Ajah,Lagos,50000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Magodo,Lagos,120000000.0
+4.0,5.0,5.0,4.0,Detached Bungalow,Asaba,Delta,65000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Ibadan,Oyo,13000000.0
+1.0,1.0,1.0,8.0,Detached Duplex,Lekki,Lagos,1100000000.0
+6.0,6.0,7.0,8.0,Detached Duplex,Gwarinpa,Abuja,110000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ajah,Lagos,58000000.0
+5.0,5.0,5.0,2.0,Detached Bungalow,Surulere,Lagos,90000000.0
+4.0,5.0,5.0,6.0,Detached Duplex,Lekki,Lagos,155000000.0
+5.0,6.0,6.0,4.0,Semi Detached Duplex,Ikoyi,Lagos,320000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Lekki,Lagos,400000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Jahi,Abuja,250000000.0
+2.0,2.0,3.0,4.0,Detached Duplex,Lekki,Lagos,45000000.0
+3.0,4.0,5.0,4.0,Detached Bungalow,Ajah,Lagos,20000000.0
+5.0,6.0,6.0,1.0,Detached Duplex,Lekki,Lagos,220000000.0
+4.0,3.0,3.0,8.0,Detached Bungalow,Ikorodu,Lagos,15000000.0
+3.0,3.0,3.0,4.0,Detached Bungalow,Ado-Odo/Ota,Ogun,25000000.0
+4.0,4.0,4.0,3.0,Detached Duplex,Ajah,Lagos,32000000.0
+4.0,4.0,5.0,8.0,Detached Bungalow,Sango Ota,Ogun,7000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ikorodu,Lagos,30000000.0
+4.0,4.0,5.0,7.0,Terraced Duplexes,Gudu,Abuja,65000000.0
+4.0,4.0,4.0,4.0,Terraced Duplexes,Ikoyi,Lagos,190000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Lekki,Lagos,650000000.0
+5.0,5.0,8.0,6.0,Detached Duplex,Lekki,Lagos,250000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Ikeja,Lagos,75000000.0
+3.0,1.0,1.0,4.0,Block of Flats,Ilupeju,Lagos,225000000.0
+1.0,1.0,1.0,4.0,Block of Flats,Ibadan,Oyo,10000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Lekki,Lagos,98000000.0
+4.0,4.0,5.0,4.0,Block of Flats,Maitama District,Abuja,160000000.0
+5.0,5.0,5.0,4.0,Detached Bungalow,Lekki,Lagos,280000000.0
+3.0,3.0,4.0,4.0,Semi Detached Bungalow,Ajah,Lagos,27000000.0
+6.0,6.0,8.0,4.0,Detached Duplex,Isheri North,Lagos,135000000.0
+4.0,4.0,5.0,7.0,Semi Detached Duplex,Karsana,Abuja,25000000.0
+5.0,7.0,8.0,6.0,Detached Duplex,Lekki,Lagos,320000000.0
+4.0,5.0,6.0,3.0,Terraced Duplexes,Wuye,Abuja,80000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Gwarinpa,Abuja,350000000.0
+4.0,5.0,5.0,5.0,Terraced Duplexes,Katampe,Abuja,75000000.0
+1.0,1.0,1.0,4.0,Detached Bungalow,Bwari,Abuja,160000000.0
+3.0,1.0,1.0,6.0,Block of Flats,Alimosho,Lagos,43000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Katampe,Abuja,250000000.0
+5.0,5.0,6.0,1.0,Detached Duplex,Ibeju Lekki,Lagos,135000000.0
+4.0,5.0,6.0,5.0,Detached Duplex,Ikeja,Lagos,65000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ifo,Ogun,25000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ikoyi,Lagos,700000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ibadan,Oyo,15000000.0
+2.0,5.0,3.0,4.0,Semi Detached Bungalow,Karshi,Abuja,15000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Ajah,Lagos,29900000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ajah,Lagos,27000000.0
+3.0,2.0,2.0,4.0,Block of Flats,Owerri Municipal,Imo,45000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Maryland,Lagos,90000000.0
+3.0,5.0,5.0,4.0,Semi Detached Duplex,Ibeju Lekki,Lagos,30000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Katampe,Abuja,350000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Guzape District,Abuja,290000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Lekki,Lagos,458000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Kado,Abuja,350000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,230000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Garki,Abuja,250000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,40000000.0
+4.0,3.0,4.0,4.0,Detached Duplex,Victoria Island (VI),Lagos,390000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Lekki,Lagos,128000000.0
+9.0,5.0,5.0,4.0,Block of Flats,Agege,Lagos,30000000.0
+4.0,6.0,6.0,6.0,Semi Detached Bungalow,Lekki,Lagos,260000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Karsana,Abuja,40000000.0
+3.0,4.0,4.0,1.0,Detached Duplex,Wuse,Abuja,180000000.0
+4.0,5.0,6.0,2.0,Detached Duplex,Ajah,Lagos,45000000.0
+5.0,4.0,4.0,5.0,Detached Bungalow,Surulere,Lagos,90000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Gwarinpa,Abuja,83000000.0
+6.0,6.0,5.0,4.0,Detached Duplex,Asokoro District,Abuja,450000000.0
+3.0,3.0,4.0,2.0,Detached Bungalow,Ajah,Lagos,20000000.0
+5.0,5.0,6.0,8.0,Detached Duplex,Ikeja,Lagos,175000000.0
+4.0,4.0,5.0,5.0,Semi Detached Duplex,Life Camp,Abuja,75000000.0
+6.0,6.0,7.0,7.0,Detached Duplex,Apo,Abuja,75000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ikeja,Lagos,45000000.0
+4.0,4.0,5.0,7.0,Terraced Duplexes,Ajah,Lagos,45000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Kubwa,Abuja,55000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Surulere,Lagos,42000000.0
+3.0,4.0,4.0,3.0,Terraced Duplexes,Lekki,Lagos,39000000.0
+4.0,4.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,120000000.0
+5.0,5.0,7.0,1.0,Detached Duplex,Alimosho,Lagos,85000000.0
+3.0,4.0,4.0,4.0,Semi Detached Bungalow,Ibeju Lekki,Lagos,18000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Gwarinpa,Abuja,300000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Magboro,Ogun,120000000.0
+8.0,7.0,9.0,3.0,Detached Duplex,Guzape District,Abuja,550000000.0
+3.0,5.0,5.0,4.0,Block of Flats,Agege,Lagos,25000000.0
+7.0,9.0,9.0,9.0,Detached Duplex,Ikorodu,Lagos,200000000.0
+7.0,7.0,8.0,4.0,Detached Duplex,Gwarinpa,Abuja,400000000.0
+5.0,5.0,6.0,9.0,Detached Duplex,Ajah,Lagos,125000000.0
+2.0,2.0,3.0,5.0,Terraced Bungalow,Lekki,Lagos,26000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Isheri North,Ogun,85000000.0
+2.0,2.0,2.0,8.0,Detached Bungalow,Ikorodu,Lagos,8500000.0
+5.0,6.0,6.0,5.0,Detached Duplex,Lekki,Lagos,195000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Guzape District,Abuja,340000000.0
+5.0,4.0,4.0,4.0,Detached Duplex,Wuse,Abuja,220000000.0
+4.0,4.0,5.0,3.0,Terraced Duplexes,Galadimawa,Abuja,35000000.0
+7.0,7.0,6.0,4.0,Detached Duplex,Ikeja,Lagos,700000000.0
+3.0,3.0,4.0,3.0,Terraced Duplexes,Ajah,Lagos,39000000.0
+4.0,4.0,5.0,2.0,Terraced Duplexes,Lekki,Lagos,72000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Katampe,Abuja,250000000.0
+4.0,2.0,2.0,4.0,Detached Duplex,Abeokuta South,Ogun,60000000.0
+8.0,8.0,8.0,4.0,Block of Flats,Ilupeju,Lagos,100000000.0
+5.0,5.0,8.0,1.0,Detached Duplex,Owerri Municipal,Imo,250000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Maitama District,Abuja,150000000.0
+5.0,6.0,6.0,6.0,Detached Duplex,Wuye,Abuja,185000000.0
+3.0,3.0,4.0,1.0,Detached Bungalow,Ikotun,Lagos,25000000.0
+6.0,6.0,6.0,4.0,Block of Flats,Ilupeju,Lagos,120000000.0
+5.0,6.0,6.0,4.0,Terraced Duplexes,Maitama District,Abuja,165000000.0
+4.0,5.0,5.0,4.0,Detached Duplex,Ikoyi,Lagos,180000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Ojo,Lagos,50000000.0
+7.0,5.0,6.0,4.0,Detached Duplex,Sango Ota,Ogun,25000000.0
+6.0,6.0,7.0,1.0,Semi Detached Duplex,Apo,Abuja,450000000.0
+4.0,4.0,4.0,1.0,Detached Bungalow,Ikorodu,Lagos,20200000.0
+3.0,3.0,4.0,2.0,Terraced Duplexes,Lekki,Lagos,30000000.0
+7.0,7.0,8.0,7.0,Detached Duplex,Guzape District,Abuja,200000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Isheri North,Lagos,50000000.0
+3.0,3.0,4.0,1.0,Terraced Duplexes,Lekki,Lagos,65000000.0
+5.0,4.0,5.0,4.0,Semi Detached Duplex,Lekki,Lagos,67000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Ajah,Lagos,46000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Lekki,Lagos,33000000.0
+3.0,3.0,3.0,5.0,Detached Bungalow,Kubwa,Abuja,65000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,45000000.0
+6.0,6.0,7.0,1.0,Detached Duplex,Maitama District,Abuja,700000000.0
+5.0,5.0,6.0,4.0,Detached Duplex,Magodo,Lagos,110000000.0
+3.0,3.0,3.0,4.0,Block of Flats,Ikoyi,Lagos,165000000.0
+5.0,5.0,6.0,5.0,Semi Detached Duplex,Kaura,Abuja,210000000.0
+4.0,5.0,4.0,4.0,Semi Detached Duplex,Lekki,Lagos,76000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Port Harcourt,Rivers,130000000.0
+3.0,4.0,4.0,3.0,Semi Detached Bungalow,Maitama District,Abuja,120000000.0
+6.0,6.0,6.0,4.0,Block of Flats,Surulere,Lagos,78000000.0
+5.0,6.0,7.0,6.0,Detached Duplex,Ikoyi,Lagos,320000000.0
+2.0,2.0,3.0,5.0,Block of Flats,Paikoro,Niger,40000000.0
+4.0,2.0,2.0,4.0,Detached Bungalow,Ibadan,Oyo,80000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Ogijo,Ogun,15000000.0
+6.0,6.0,6.0,4.0,Terraced Duplexes,Wuye,Abuja,80000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Ikorodu,Lagos,25000000.0
+2.0,5.0,5.0,4.0,Block of Flats,Ipaja,Lagos,22000000.0
+5.0,5.0,6.0,4.0,Detached Bungalow,Lekki,Lagos,300000000.0
+2.0,2.0,3.0,2.0,Block of Flats,Ajah,Lagos,17800000.0
+6.0,8.0,8.0,2.0,Detached Duplex,Victoria Island (VI),Lagos,500000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,49000000.0
+4.0,4.0,5.0,5.0,Detached Duplex,Ajah,Lagos,80000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Kubwa,Abuja,38900000.0
+5.0,5.0,5.0,6.0,Detached Duplex,Ikoyi,Lagos,850000000.0
+3.0,3.0,4.0,2.0,Detached Duplex,Ibeju Lekki,Lagos,58800000.0
+5.0,6.0,4.0,4.0,Detached Duplex,Lekki,Lagos,120000000.0
+4.0,5.0,6.0,3.0,Detached Duplex,Lekki,Lagos,40000000.0
+3.0,5.0,5.0,4.0,Detached Bungalow,Lekki,Lagos,28000000.0
+4.0,4.0,5.0,4.0,Semi Detached Duplex,Enugu,Enugu,90000000.0
+4.0,5.0,6.0,4.0,Semi Detached Duplex,Lekki,Lagos,79000000.0
+2.0,3.0,3.0,2.0,Detached Bungalow,Epe,Lagos,12000000.0
+5.0,8.0,6.0,4.0,Detached Duplex,Katampe,Abuja,230000000.0
+4.0,4.0,5.0,2.0,Block of Flats,Jahi,Abuja,47000000.0
+4.0,5.0,5.0,5.0,Detached Duplex,Katampe,Abuja,200000000.0
+1.0,5.0,5.0,4.0,Detached Bungalow,Ipaja,Lagos,15000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Asokoro District,Abuja,850000000.0
+4.0,5.0,5.0,2.0,Detached Duplex,Ajah,Lagos,70000000.0
+4.0,4.0,5.0,6.0,Detached Duplex,Lekki,Lagos,135000000.0
+1.0,1.0,1.0,4.0,Block of Flats,Owerri Municipal,Imo,35000000.0
+3.0,3.0,4.0,2.0,Block of Flats,Mabushi,Abuja,120000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Ikoyi,Lagos,140000000.0
+4.0,4.0,5.0,3.0,Semi Detached Duplex,Maryland,Lagos,55000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Life Camp,Abuja,77000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Port Harcourt,Rivers,150000000.0
+4.0,4.0,4.0,4.0,Detached Bungalow,Ipaja,Lagos,16000000.0
+5.0,6.0,6.0,4.0,Detached Duplex,Lekki,Lagos,232000000.0
+5.0,5.0,5.0,7.0,Detached Duplex,Owerri Municipal,Imo,270000000.0
+6.0,5.0,5.0,4.0,Detached Duplex,Kubwa,Abuja,40000000.0
+4.0,5.0,5.0,6.0,Semi Detached Duplex,Lekki,Lagos,270000000.0
+3.0,3.0,3.0,4.0,Terraced Duplexes,Apo,Abuja,26000000.0
+4.0,4.0,5.0,8.0,Detached Duplex,Ibadan South-West,Oyo,65000000.0
+4.0,5.0,6.0,2.0,Semi Detached Duplex,Lekki,Lagos,70000000.0
+4.0,4.0,5.0,4.0,Detached Duplex,Ipaja,Lagos,60000000.0
+4.0,4.0,4.0,3.0,Terraced Duplexes,Yaba,Lagos,75000000.0
+5.0,5.0,6.0,9.0,Detached Duplex,Gwarinpa,Abuja,150000000.0
+7.0,5.0,5.0,5.0,Detached Duplex,Maitama District,Abuja,880000000.0
+4.0,5.0,5.0,4.0,Terraced Duplexes,Jabi,Abuja,50000000.0
+5.0,7.0,8.0,4.0,Detached Duplex,Ikoyi,Lagos,450000000.0
+4.0,4.0,4.0,4.0,Detached Duplex,Ibeju Lekki,Lagos,98000000.0
+5.0,5.0,6.0,8.0,Semi Detached Duplex,Port Harcourt,Rivers,65000000.0
+5.0,6.0,6.0,5.0,Semi Detached Duplex,Kukwaba,Abuja,75000000.0
+5.0,5.0,6.0,3.0,Detached Duplex,Ikeja,Lagos,270000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Maitama District,Abuja,600000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Gwarinpa,Abuja,130000000.0
+3.0,3.0,4.0,4.0,Terraced Duplexes,Lekki,Lagos,53000000.0
+4.0,4.0,5.0,4.0,Terraced Duplexes,Life Camp,Abuja,80000000.0
+5.0,7.0,8.0,5.0,Detached Duplex,Lekki,Lagos,120000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Gbagada,Lagos,80000000.0
+6.0,5.0,7.0,4.0,Detached Duplex,Port Harcourt,Rivers,130000000.0
+1.0,1.0,2.0,4.0,Block of Flats,Owerri North,Imo,100000000.0
+5.0,5.0,6.0,5.0,Detached Duplex,Ogudu,Lagos,200000000.0
+4.0,5.0,5.0,4.0,Block of Flats,Aba,Abia,19000000.0
+3.0,4.0,5.0,4.0,Block of Flats,Wuye,Abuja,53000000.0
+4.0,4.0,5.0,7.0,Detached Duplex,Lekki,Lagos,80000000.0
+3.0,3.0,4.0,4.0,Detached Bungalow,Ikorodu,Lagos,18000000.0
+5.0,5.0,5.0,3.0,Detached Duplex,Ogudu,Lagos,60000000.0
+3.0,3.0,3.0,3.0,Block of Flats,Ojodu,Lagos,13000000.0
+5.0,5.0,6.0,6.0,Detached Duplex,Yaba,Lagos,65000000.0
+4.0,5.0,5.0,8.0,Detached Bungalow,Gwagwalada,Abuja,10000000.0
+4.0,4.0,5.0,1.0,Detached Duplex,Lokogoma District,Abuja,50000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Ikeja,Lagos,130000000.0
+5.0,5.0,6.0,4.0,Semi Detached Duplex,Life Camp,Abuja,37000000.0
+5.0,6.0,7.0,5.0,Detached Duplex,Guzape District,Abuja,225000000.0
+3.0,3.0,3.0,5.0,Block of Flats,Uyo,Akwa Ibom,35000000.0
+5.0,5.0,5.0,4.0,Detached Duplex,Ajah,Lagos,78000000.0
+6.0,6.0,7.0,4.0,Detached Duplex,Lekki,Lagos,180000000.0
+3.0,4.0,4.0,5.0,Detached Bungalow,Mbora (Nbora),Abuja,38000000.0
+6.0,6.0,7.0,5.0,Detached Duplex,Wuye,Abuja,170000000.0
+4.0,5.0,5.0,4.0,Semi Detached Duplex,Life Camp,Abuja,65000000.0
+5.0,5.0,6.0,2.0,Terraced Duplexes,Lekki,Lagos,160000000.0
+4.0,5.0,4.0,6.0,Detached Duplex,Gwarinpa,Abuja,60000000.0
+6.0,9.0,9.0,4.0,Detached Bungalow,Ibeju Lekki,Lagos,95000000.0
+6.0,5.0,6.0,5.0,Detached Duplex,Ibeju Lekki,Lagos,100000000.0
+5.0,7.0,6.0,1.0,Detached Duplex,Katampe,Abuja,230000000.0
+5.0,6.0,6.0,8.0,Detached Duplex,Isolo,Lagos,80000000.0
+7.0,8.0,5.0,6.0,Detached Duplex,Port Harcourt,Rivers,49000000.0
